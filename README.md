@@ -48,6 +48,10 @@ English version: [README.en.md](README.en.md)
 - [MEISEI 热剥器选型指南](品牌指南/MEISEI热剥器选型指南.md) — M-10/M-20/M-30 电源与 HOTWEEZERS/HOTNIFE 手柄选型
 - [METCAL 焊台选型指南](品牌指南/METCAL焊台选型指南.md) — MX-5200/MFR-1160/HCT2-200 等型号与 SmartHeat 选型要点
 - [MISUMI 产品选型指南](品牌指南/MISUMI产品选型指南.md) — 紧固、定位、直线运动、模具零件代表型式
+- [JBC 焊接返修工具选型指南](品牌指南/JBC焊接返修工具选型指南.md) — CDB/NASE/JNA-2B 等型号与烙铁头体系（中国主分销商）
+- [MAXWELL 超级电容选型指南](品牌指南/MAXWELL超级电容选型指南.md) — BCAP3000、K2 系列与 BMOD 模组选型
+- [NORD-LOCK 防松垫片选型指南](品牌指南/NORD-LOCK防松垫片选型指南.md) — NL/NLX/Boltight 系列与楔形防松选型
+- [VIRTUAL 真空吸笔选型指南](品牌指南/VIRTUAL真空吸笔选型指南.md) — TV-1000、PEN-VAC 等真空拾取工具选型
 
 ### 选型手册（PDF，官网下载）
 
