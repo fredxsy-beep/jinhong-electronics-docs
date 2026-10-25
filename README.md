@@ -46,6 +46,7 @@ English version: [README.en.md](README.en.md)
 
 - [DMC 压接工具选型指南](品牌指南/DMC压接工具选型指南.md) — AF8/AFM8/MH860/HX4 等 14 个型号对照与选型要点
 - [DMC 产品资料汇编](品牌指南/DMC产品资料汇编.md) — 30 余个工具系列与定位器/校验规件号汇编（源自厂商目录与中文选型手册）
+- [热剥器产品资料汇编](品牌指南/热剥器产品资料汇编.md) — MEISEI HOTWEEZERS 热剥手柄/HOTNIFE 热割刀与金宏自有 M-11、JH 系列热剥器参数汇编
 - [MEISEI 热剥器选型指南](品牌指南/MEISEI热剥器选型指南.md) — M-10/M-20/M-30 电源与 HOTWEEZERS/HOTNIFE 手柄选型
 - [METCAL 焊台选型指南](品牌指南/METCAL焊台选型指南.md) — MX-5200/MFR-1160/HCT2-200 等型号与 SmartHeat 选型要点
 - [MISUMI 产品选型指南](品牌指南/MISUMI产品选型指南.md) — 紧固、定位、直线运动、模具零件代表型式
