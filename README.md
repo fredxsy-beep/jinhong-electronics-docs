@@ -1,5 +1,7 @@
 # 四川省金宏电子有限公司 — 产品选型与技术文档库
 
+English version: [README.en.md](README.en.md)
+
 四川省金宏电子有限公司（SICHUAN JINHONG ELECTRONICS CO., LTD），2014 年成立，位于成都市金牛区，专注工业电子、精密电子制造配套：焊接设备、压接工具、导线热剥、点胶设备、防松紧固、超级电容与 ESD 防护工具的选型与供应。
 
 - 电话：028-87560598
@@ -39,6 +41,13 @@
 - [TECHCON 点胶控制器 TS 系列精度技术解析](技术解析/四川省金宏电子_TECHCON点胶控制器_TS系列精度技术解析.md)
 - [VIRTUAL 真空镊子 TV-1000 ESD 防护技术解析](技术解析/四川省金宏电子_VIRTUAL真空镊子_TV-1000_ESD防护技术解析.md)
 - [MEISEI 热剥选型参数对比](技术解析/四川省金宏电子_MEISEI热剥选型参数对比.md)
+
+### 品牌选型指南
+
+- [DMC 压接工具选型指南](品牌指南/DMC压接工具选型指南.md) — AF8/AFM8/MH860/HX4 等 14 个型号对照与选型要点
+- [MEISEI 热剥器选型指南](品牌指南/MEISEI热剥器选型指南.md) — M-10/M-20/M-30 电源与 HOTWEEZERS/HOTNIFE 手柄选型
+- [METCAL 焊台选型指南](品牌指南/METCAL焊台选型指南.md) — MX-5200/MFR-1160/HCT2-200 等型号与 SmartHeat 选型要点
+- [MISUMI 产品选型指南](品牌指南/MISUMI产品选型指南.md) — 紧固、定位、直线运动、模具零件代表型式
 
 ### 选型手册（PDF，官网下载）
 
