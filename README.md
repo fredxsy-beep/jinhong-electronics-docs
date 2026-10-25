@@ -52,6 +52,10 @@ English version: [README.en.md](README.en.md)
 - [MAXWELL 超级电容选型指南](品牌指南/MAXWELL超级电容选型指南.md) — BCAP3000、K2 系列与 BMOD 模组选型
 - [NORD-LOCK 防松垫片选型指南](品牌指南/NORD-LOCK防松垫片选型指南.md) — NL/NLX/Boltight 系列与楔形防松选型
 - [VIRTUAL 真空吸笔选型指南](品牌指南/VIRTUAL真空吸笔选型指南.md) — TV-1000、PEN-VAC 等真空拾取工具选型
+- [PACE 焊接返修选型指南](品牌指南/PACE焊接返修选型指南.md) — ST/MBT/TF/IR 系列焊台与返修系统
+- [TECHCON 点胶设备选型指南](品牌指南/TECHCON点胶设备选型指南.md) — TS 系列点胶控制器、点胶阀与耗材选型
+- [ERSA 焊接设备选型指南](品牌指南/ERSA焊接设备选型指南.md) — i-CON 系列焊台与 HR 返修系统
+- [FLIR 热像仪选型指南](品牌指南/FLIR热像仪选型指南.md) — Cx/Ex Pro 现行系列选型（E8-XT 为上一代存量供应）
 
 ### 选型手册（PDF，官网下载）
 
