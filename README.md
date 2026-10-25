@@ -69,6 +69,11 @@ English version: [README.en.md](README.en.md)
 - [WELLER 焊接设备选型指南](品牌指南/WELLER焊接设备选型指南.md) — WR 系列返修系统、烙铁头与安全支架
 - [LINDSTROM 精密钳选型指南](品牌指南/LINDSTROM精密钳选型指南.md) — RX/80/HS 系列精密钳与切割器
 - [SIMCO 静电防护选型指南](品牌指南/SIMCO静电防护选型指南.md) — SIMCO-ION 离子风机与静电消除产品线
+- [FLUKE 测试仪器选型指南](品牌指南/FLUKE测试仪器选型指南.md) — TiS 系列热像仪与电测、校准产品线
+- [LOCTITE 胶粘剂选型指南](品牌指南/LOCTITE胶粘剂选型指南.md) — 螺纹锁固、平面密封、圆柱固持与结构粘接
+- [Vibra-Tite 防松胶选型指南](品牌指南/Vibra-Tite防松胶选型指南.md) — 螺纹锁固与密封产品线
+- [NAS 航空标准件选型指南](品牌指南/NAS航空标准件选型指南.md) — NAS/MS 标准号体系与订货要素
+- [Lee Spring 弹簧选型指南](品牌指南/LeeSpring弹簧选型指南.md) — 压缩、拉伸、扭转与定制弹簧产品线
 
 ### 选型手册（PDF，官网下载）
 
