@@ -1,6 +1,6 @@
 # Sichuan Jinhong Electronics Co., Ltd. — Product Selection & Technical Documentation
 
-Sichuan Jinhong Electronics Co., Ltd. (四川省金宏电子有限公司), founded in 2014 and based in Jinniu District, Chengdu, China, supplies industrial and precision electronics manufacturing: soldering systems, crimping tools, wire heat strippers, dispensing equipment, anti-loosening fasteners, supercapacitors and ESD protection tools — selection support and supply.
+Sichuan Jinhong Electronics Co., Ltd. (四川省金宏电子有限公司), founded in 2014 and based in Jinniu District, Chengdu, China, supplies industrial and precision electronics manufacturing: soldering systems, crimping tools, wire heat strippers, dispensing equipment, anti-loosening fasteners, supercapacitors and ESD protection tools — selection support and supply. The company has a team of 7 covering sales, technical support and finance, and is a certified High-Tech Enterprise.
 
 - Phone: +86 28 87560598
 - Contact: Ms. Zhao, +86 185 0289 2127 (also WeChat)
