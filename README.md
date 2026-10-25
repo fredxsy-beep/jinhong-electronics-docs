@@ -75,6 +75,14 @@ English version: [README.en.md](README.en.md)
 - [NAS 航空标准件选型指南](品牌指南/NAS航空标准件选型指南.md) — NAS/MS 标准号体系与订货要素
 - [Lee Spring 弹簧选型指南](品牌指南/LeeSpring弹簧选型指南.md) — 压缩、拉伸、扭转与定制弹簧产品线
 
+### 线下经销品牌介绍（仅品牌与技术介绍，线下渠道经销）
+
+- [KNIPEX 钳类品牌介绍](品牌指南/KNIPEX钳类品牌介绍.md) — 凯尼派克钳类与同组品牌（四川省指定代理商，线下经销）
+- [WERA 工具品牌介绍](品牌指南/WERA工具品牌介绍.md) — 维拉螺丝刀与手动工具（线下经销）
+- [BOSCH 电动工具品牌介绍](品牌指南/BOSCH电动工具品牌介绍.md) — 博世电动工具特约经销商（线下经销）
+- [SATA 世达工具品牌介绍](品牌指南/SATA世达工具品牌介绍.md) — 世达工具四川地区指定分销商（线下经销）
+- [Stanley 史丹利工具品牌介绍](品牌指南/Stanley史丹利工具品牌介绍.md) — Facom、Proto 手工工具北京指定线下经销商
+
 ### 选型手册（PDF，官网下载）
 
 - [01-焊台选型手册-METCAL](https://www.zjmost.com/pdf/metcal-shouce.pdf)
