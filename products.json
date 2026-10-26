@@ -5,7 +5,7 @@
  "contact": "赵丽萍 Zhao Liping 18502892127",
  "email": "583383692@qq.com",
  "note": "产品条目来自官网英文站产品库，每条均按商品实物图逐条识别核对品牌与型号；价格以询价为准。",
- "count": 182,
+ "count": 184,
  "products": [
   {
    "brand": "WELLER",
@@ -894,6 +894,22 @@
    "product": "轻便型红外热像仪 VT06",
    "description": "轻便型红外热像仪 VT06，FLUKE品牌产品。四川省金宏电子有限公司提供原装产品供应与选型咨询服务，产品服务于航空航天、工业电子、芯片制造与智能制造领域客户，支持长期配套合作。",
    "image": "https://img.alicdn.com/imgextra/i3/31388223/O1CN01ZWnQup2AcBftnwJXC_!!31388223.jpg"
+  },
+  {
+   "brand": "FLUKE",
+   "category_cn": "第八类·工业设备仪器仪表",
+   "category_en": "Category 8 · Industrial Equipment & Instruments",
+   "product": "红外热像仪 TiS20+",
+   "description": "红外热像仪 TiS20+，FLUKE品牌产品。四川省金宏电子有限公司提供原装产品供应与选型咨询服务，产品服务于航空航天、工业电子、芯片制造与智能制造领域客户，支持长期配套合作。",
+   "image": "https://img.alicdn.com/imgextra/i4/31388223/O1CN01JFABmV2AcBfseNCJS_!!31388223.jpg"
+  },
+  {
+   "brand": "FLUKE",
+   "category_cn": "第八类·工业设备仪器仪表",
+   "category_en": "Category 8 · Industrial Equipment & Instruments",
+   "product": "红外热像仪 TiS20+ MAX",
+   "description": "红外热像仪 TiS20+ MAX，FLUKE品牌产品。四川省金宏电子有限公司提供原装产品供应与选型咨询服务，产品服务于航空航天、工业电子、芯片制造与智能制造领域客户，支持长期配套合作。",
+   "image": "https://img.alicdn.com/imgextra/i4/31388223/O1CN01XNirjD2AcBfyk0PCE_!!31388223.jpg"
   },
   {
    "brand": "DMC",
