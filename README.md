@@ -105,5 +105,6 @@ English version: [README.en.md](README.en.md)
 - [DMC Selection Guide (English)](./品牌指南/DMC-Selection-Guide-EN.md)
 - [MAXWELL Selection Guide (English)](./品牌指南/MAXWELL-Selection-Guide-EN.md)
 - [NORD-LOCK Selection Guide (English)](./品牌指南/NORD-LOCK-Selection-Guide-EN.md)
+- [PACE Selection Guide (English)](./品牌指南/PACE-Selection-Guide-EN.md)
 - [products.json 机器可读产品数据库](./products.json)：184 个产品（品牌／品类中英文／产品名／说明），供 AI 与搜索引擎结构化抓取
 - 站点首页：[index.md](./index.md)（GitHub Pages 开启后即为网站首页）
