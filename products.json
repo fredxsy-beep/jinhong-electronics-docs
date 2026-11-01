@@ -5,7 +5,7 @@
  "contact": "赵丽萍 Zhao Liping 18502892127",
  "email": "583383692@qq.com",
  "note": "产品条目来自官网英文站产品库，每条均按商品实物图逐条识别核对品牌与型号；价格以询价为准。",
- "count": 184,
+ "count": 253,
  "products": [
   {
    "brand": "WELLER",
@@ -1478,6 +1478,558 @@
    "product": "热剖面仪 X5",
    "description": "热剖面仪 X5，KIC品牌产品。四川省金宏电子有限公司提供原装产品供应与选型咨询服务，产品服务于航空航天、工业电子、芯片制造与智能制造领域客户，支持长期配套合作。",
    "image": "https://img.alicdn.com/imgextra/i4/31388223/O1CN01J9zmjw2AcBjEILAHT_!!31388223.jpg"
+  },
+  {
+   "brand": "DMC",
+   "category_cn": "第四类·关键电气系统",
+   "category_en": "Category 4 · Critical Electrical Systems",
+   "product": "DRK95-10B 取送工具 M819698-12",
+   "description": "本品为DMC取送工具，适用于航空圆形连接器接触件的取送与维修场景。四川省金宏电子经销DMC产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/87nHCnmiXcIQh2Ca6m7JpBABYjo.jpg"
+  },
+  {
+   "brand": "ERSA",
+   "category_cn": "第三类·焊接拆焊返修",
+   "category_en": "Category 3 · Soldering, Desoldering & Rework",
+   "product": "i-tool 手柄 i-con焊台使用",
+   "description": "本品为ERSA焊台，适用于电子装配、实验室研发与维修维护场景。四川省金宏电子经销ERSA产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/xC7AYpXBBIgSmkpXdNLnzRAClb8.jpg"
+  },
+  {
+   "brand": "FLUKE",
+   "category_cn": "第八类·工业设备仪器仪表",
+   "category_en": "Category 8 · Industrial Equipment & Instruments",
+   "product": "TiS75+ 红外线热成像测温仪地暖电路板手持热像仪工业仪器",
+   "description": "本品为FLUKE福禄克红外热像仪，适用于设备巡检、电气维护与研发测试场景。四川省金宏电子经销FLUKE福禄克产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/etX9GbRtUK15HLszIdduARABbJU.jpg"
+  },
+  {
+   "brand": "LINDSTROM",
+   "category_cn": "第二类·航空航天制造专用工具",
+   "category_en": "Category 2 · Aerospace Manufacturing Tools",
+   "product": "00CF-SA",
+   "description": "本品为LINDSTROM精密钳类工具，适用于电子、精密机械的夹持剪切作业场景。四川省金宏电子经销LINDSTROM产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/FXwABuv27tkEs__11n2zXRADW3Q.jpg"
+  },
+  {
+   "brand": "MAXWELL",
+   "category_cn": "第七类·工业紧固件",
+   "category_en": "Category 7 · Industrial Fasteners",
+   "product": "超级法拉电容模组 24V,48V,54V, 64V等",
+   "description": "本品为MAXWELL电容，适用于储能、功率补偿等电气场景。四川省金宏电子经销MAXWELL产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/C5bVh7C-iKLBfNJ5LF9WRBACMh8.jpg"
+  },
+  {
+   "brand": "MEISEI",
+   "category_cn": "第四类·关键电气系统",
+   "category_en": "Category 4 · Critical Electrical Systems",
+   "product": "导线热剥器 M20(7A,7B,7C)",
+   "description": "本品为MEISEI热剥器，适用于航空导线、军标线缆的热剥线作业场景。四川省金宏电子为MEISEI授权经销商，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/pBXf9pl8ZiJ8fC9tOuZs5BACGuQ.jpg"
+  },
+  {
+   "brand": "METCAL",
+   "category_cn": "第三类·焊接拆焊返修",
+   "category_en": "Category 3 · Soldering, Desoldering & Rework",
+   "product": "MFR-1160 电焊台",
+   "description": "本品为METCAL焊台，适用于电子装配、实验室研发与维修维护场景。四川省金宏电子为METCAL/OKI金牌代理商（2026年证书有效），提供原装正品与配套技术支持。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/iQbrpcGx8JUGdfEkwWp4tRABDNM.jpg"
+  },
+  {
+   "brand": "NITTO",
+   "category_cn": "第八类·工业设备仪器仪表",
+   "category_en": "Category 8 · Industrial Equipment & Instruments",
+   "product": "elep-f5001 -ELEP-F500I工业胶带",
+   "description": "本品为NITTO工业工具，适用于工业制造、装配维修等通用场景。四川省金宏电子经销NITTO产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/V_KsInvDvRk9O4NsE1EwJxAHIuI.jpg"
+  },
+  {
+   "brand": "PACE",
+   "category_cn": "第三类·焊接拆焊返修",
+   "category_en": "Category 3 · Soldering, Desoldering & Rework",
+   "product": "焊台ST35,ST125,MBT360",
+   "description": "本品为PACE焊台，适用于电子装配、实验室研发与维修维护场景。四川省金宏电子经销PACE产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/XuFfthXlTH0n7u-hPhEMHBABdtE.jpg"
+  },
+  {
+   "brand": "TECHCON",
+   "category_cn": "第五类·精密流体点胶",
+   "category_en": "Category 5 · Precision Fluid Dispensing",
+   "product": "Systems TS500R点胶控制器",
+   "description": "本品为TECHCON点胶控制器，适用于电子装配、半导体封装等精密流体控制场景。四川省金宏电子经销TECHCON产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/k3k0-vud8RMZCNK39wL8iRAALkQ.jpg"
+  },
+  {
+   "brand": "DMC",
+   "category_cn": "第四类·关键电气系统",
+   "category_en": "Category 4 · Critical Electrical Systems",
+   "product": "M225297-01 压接钳 MH860",
+   "description": "本品为DMC压接钳，适用于航空连接器、端子压接装配场景。四川省金宏电子经销DMC产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/29PUlxC3ePgzGBh49WeX_xABJLw.jpg"
+  },
+  {
+   "brand": "FLIR",
+   "category_cn": "第八类·工业设备仪器仪表",
+   "category_en": "Category 8 · Industrial Equipment & Instruments",
+   "product": "20+ MAX 手持式红外热像仪",
+   "description": "本品为FLIR红外热像仪，适用于设备巡检、电气维护与研发测试场景。四川省金宏电子经销FLIR产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/etX9GbRtUK15HLszIdduARABbJU.jpg"
+  },
+  {
+   "brand": "LINDSTROM",
+   "category_cn": "第二类·航空航天制造专用工具",
+   "category_en": "Category 2 · Aerospace Manufacturing Tools",
+   "product": "F-SA",
+   "description": "本品为LINDSTROM精密钳类工具，适用于电子、精密机械的夹持剪切作业场景。四川省金宏电子经销LINDSTROM产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/sew32eShZfKE-PmSFIHFmBADxIA.jpg"
+  },
+  {
+   "brand": "MAXWELL",
+   "category_cn": "第七类·工业紧固件",
+   "category_en": "Category 7 · Industrial Fasteners",
+   "product": "超级电容器(BMOD,BCAP)",
+   "description": "本品为MAXWELL超级电容，适用于储能、功率补偿等电气场景。四川省金宏电子经销MAXWELL产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/C5bVh7C-iKLBfNJ5LF9WRBACMh8.jpg"
+  },
+  {
+   "brand": "MEISEI",
+   "category_cn": "第四类·关键电气系统",
+   "category_en": "Category 4 · Critical Electrical Systems",
+   "product": "M20系列热剥器",
+   "description": "本品为MEISEI热剥器，适用于航空导线、军标线缆的热剥线作业场景。四川省金宏电子为MEISEI授权经销商，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/pBXf9pl8ZiJ8fC9tOuZs5BACGuQ.jpg"
+  },
+  {
+   "brand": "PACE",
+   "category_cn": "第三类·焊接拆焊返修",
+   "category_en": "Category 3 · Soldering, Desoldering & Rework",
+   "product": "ST115E吸锡台",
+   "description": "本品为PACE吸锡台，适用于电子制造、维修维护与研发打样场景。四川省金宏电子经销PACE产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/428OuTsjLm6JhItcw6tuIRACEZ8.jpg"
+  },
+  {
+   "brand": "TECHCON",
+   "category_cn": "第五类·精密流体点胶",
+   "category_en": "Category 5 · Precision Fluid Dispensing",
+   "product": "Systems TS350/355系列点胶控制器",
+   "description": "本品为TECHCON点胶控制器，适用于电子装配、半导体封装等精密流体控制场景。四川省金宏电子经销TECHCON产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/k3k0-vud8RMZCNK39wL8iRAALkQ.jpg"
+  },
+  {
+   "brand": "DMC",
+   "category_cn": "第四类·关键电气系统",
+   "category_en": "Category 4 · Critical Electrical Systems",
+   "product": "HX4 压接钳 M225205-01",
+   "description": "本品为DMC压接钳，适用于航空连接器、端子压接装配场景。四川省金宏电子经销DMC产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/J84NLX9kNBGU9CrgUqcDNxABLwM.jpg"
+  },
+  {
+   "brand": "FLUKE",
+   "category_cn": "第八类·工业设备仪器仪表",
+   "category_en": "Category 8 · Industrial Equipment & Instruments",
+   "product": "TiS75+ 手持式红外热像仪",
+   "description": "本品为FLUKE福禄克红外热像仪，适用于设备巡检、电气维护与研发测试场景。四川省金宏电子经销FLUKE福禄克产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/etX9GbRtUK15HLszIdduARABbJU.jpg"
+  },
+  {
+   "brand": "MAXWELL",
+   "category_cn": "第七类·工业紧固件",
+   "category_en": "Category 7 · Industrial Fasteners",
+   "product": "超级电容(可定制)",
+   "description": "本品为MAXWELL超级电容，适用于储能、功率补偿等电气场景。四川省金宏电子经销MAXWELL产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/C5bVh7C-iKLBfNJ5LF9WRBACMh8.jpg"
+  },
+  {
+   "brand": "METCAL",
+   "category_cn": "第三类·焊接拆焊返修",
+   "category_en": "Category 3 · Soldering, Desoldering & Rework",
+   "product": "MX-5210 电焊台",
+   "description": "本品为METCAL焊台，适用于电子装配、实验室研发与维修维护场景。四川省金宏电子为METCAL/OKI金牌代理商（2026年证书有效），提供原装正品与配套技术支持。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/iQbrpcGx8JUGdfEkwWp4tRABDNM.jpg"
+  },
+  {
+   "brand": "DMC",
+   "category_cn": "第二类·航空航天制造专用工具",
+   "category_en": "Category 2 · Aerospace Manufacturing Tools",
+   "product": "软口钳 BT-SJ-468",
+   "description": "本品为DMC软口钳，适用于夹持、剪切、弯曲等钳工作业场景。四川省金宏电子经销DMC产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/87nHCnmiXcIQh2Ca6m7JpBABYjo.jpg"
+  },
+  {
+   "brand": "DMC",
+   "category_cn": "第二类·航空航天制造专用工具",
+   "category_en": "Category 2 · Aerospace Manufacturing Tools",
+   "product": "DBS-1200 扎带钳",
+   "description": "本品为DMC钳类工具，适用于夹持、剪切、弯曲等钳工作业场景。四川省金宏电子经销DMC产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/9Tm3HOsoDuyR8nK0ljW69xABZpE.jpg"
+  },
+  {
+   "brand": "DMC",
+   "category_cn": "第四类·关键电气系统",
+   "category_en": "Category 4 · Critical Electrical Systems",
+   "product": "M22520管型压线钳多功能压接钳针形夹线冷压端子钳电工工具",
+   "description": "本品为DMC压接钳，适用于航空连接器、端子压接装配场景。四川省金宏电子经销DMC产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/87nHCnmiXcIQh2Ca6m7JpBABYjo.jpg"
+  },
+  {
+   "brand": "ERSA",
+   "category_cn": "第三类·焊接拆焊返修",
+   "category_en": "Category 3 · Soldering, Desoldering & Rework",
+   "product": "i con2 电焊台",
+   "description": "本品为ERSA焊台，适用于电子装配、实验室研发与维修维护场景。四川省金宏电子经销ERSA产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/XyjSX8MCpMCjFGvIBfjWlhABPZk.jpg"
+  },
+  {
+   "brand": "ERSA",
+   "category_cn": "第三类·焊接拆焊返修",
+   "category_en": "Category 3 · Soldering, Desoldering & Rework",
+   "product": "埃莎 I-CON1 电焊台",
+   "description": "本品为ERSA焊台，适用于电子装配、实验室研发与维修维护场景。四川省金宏电子经销ERSA产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/XyjSX8MCpMCjFGvIBfjWlhABPZk.jpg"
+  },
+  {
+   "brand": "ERSA",
+   "category_cn": "第二类·航空航天制造专用工具",
+   "category_en": "Category 2 · Aerospace Manufacturing Tools",
+   "product": "0100CDJ 焊接手柄",
+   "description": "本品为ERSA手柄，适用于电子、机械装配与维修场景。四川省金宏电子经销ERSA产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/XyjSX8MCpMCjFGvIBfjWlhABPZk.jpg"
+  },
+  {
+   "brand": "FLUKE",
+   "category_cn": "第八类·工业设备仪器仪表",
+   "category_en": "Category 8 · Industrial Equipment & Instruments",
+   "product": "TiS60+ 手持式红外热像仪",
+   "description": "本品为FLUKE福禄克红外热像仪，适用于设备巡检、电气维护与研发测试场景。四川省金宏电子经销FLUKE福禄克产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/fag4gD9rgoFmQGC72-2JZxACGxU.jpg"
+  },
+  {
+   "brand": "FLUKE",
+   "category_cn": "第八类·工业设备仪器仪表",
+   "category_en": "Category 8 · Industrial Equipment & Instruments",
+   "product": "TiS55+ 手持式红外热像仪",
+   "description": "本品为FLUKE福禄克红外热像仪，适用于设备巡检、电气维护与研发测试场景。四川省金宏电子经销FLUKE福禄克产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/fag4gD9rgoFmQGC72-2JZxACGxU.jpg"
+  },
+  {
+   "brand": "FLIR",
+   "category_cn": "第八类·工业设备仪器仪表",
+   "category_en": "Category 8 · Industrial Equipment & Instruments",
+   "product": "20+ 手持式红外热像仪",
+   "description": "本品为FLIR红外热像仪，适用于设备巡检、电气维护与研发测试场景。四川省金宏电子经销FLIR产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/fag4gD9rgoFmQGC72-2JZxACGxU.jpg"
+  },
+  {
+   "brand": "LINDSTROM",
+   "category_cn": "第二类·航空航天制造专用工具",
+   "category_en": "Category 2 · Aerospace Manufacturing Tools",
+   "product": "80系列8150J",
+   "description": "本品为LINDSTROM精密钳类工具，适用于电子、精密机械的夹持剪切作业场景。四川省金宏电子经销LINDSTROM产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/fsXrmr4Bo_LEbOAR3lqBPRADngQ.jpg"
+  },
+  {
+   "brand": "LINDSTROM",
+   "category_cn": "第二类·航空航天制造专用工具",
+   "category_en": "Category 2 · Aerospace Manufacturing Tools",
+   "product": "BAH5A-SA",
+   "description": "本品为LINDSTROM精密钳类工具，适用于电子、精密机械的夹持剪切作业场景。四川省金宏电子经销LINDSTROM产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/fsXrmr4Bo_LEbOAR3lqBPRADngQ.jpg"
+  },
+  {
+   "brand": "LINDSTROM",
+   "category_cn": "第二类·航空航天制造专用工具",
+   "category_en": "Category 2 · Aerospace Manufacturing Tools",
+   "product": "15AP",
+   "description": "本品为LINDSTROM精密钳类工具，适用于电子、精密机械的夹持剪切作业场景。四川省金宏电子经销LINDSTROM产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/fsXrmr4Bo_LEbOAR3lqBPRADngQ.jpg"
+  },
+  {
+   "brand": "MAXWELL",
+   "category_cn": "第七类·工业紧固件",
+   "category_en": "Category 7 · Industrial Fasteners",
+   "product": "超级电容器 法拉 48v165F ,48V83F模组",
+   "description": "本品为MAXWELL超级电容，适用于储能、功率补偿等电气场景。四川省金宏电子经销MAXWELL产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/EIgNy1x8InD5LZZ76wruZRACjRc.jpg"
+  },
+  {
+   "brand": "MAXWELL",
+   "category_cn": "第七类·工业紧固件",
+   "category_en": "Category 7 · Industrial Fasteners",
+   "product": "BCAP0350E270 超级电容器 2.7V350F",
+   "description": "本品为MAXWELL超级电容，适用于储能、功率补偿等电气场景。四川省金宏电子经销MAXWELL产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/EIgNy1x8InD5LZZ76wruZRACjRc.jpg"
+  },
+  {
+   "brand": "MAXWELL",
+   "category_cn": "第七类·工业紧固件",
+   "category_en": "Category 7 · Industrial Fasteners",
+   "product": "超级电容器BCAP3000P270 2.7V,3000F",
+   "description": "本品为MAXWELL超级电容，适用于储能、功率补偿等电气场景。四川省金宏电子经销MAXWELL产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/EIgNy1x8InD5LZZ76wruZRACjRc.jpg"
+  },
+  {
+   "brand": "MEISEI",
+   "category_cn": "第四类·关键电气系统",
+   "category_en": "Category 4 · Critical Electrical Systems",
+   "product": "M10-4A 热剥器",
+   "description": "本品为MEISEI热剥器，适用于航空导线、军标线缆的热剥线作业场景。四川省金宏电子为MEISEI授权经销商，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/XcdNi-jT5aVsT6a-RxI7uxAB9xQ.jpg"
+  },
+  {
+   "brand": "MEISEI",
+   "category_cn": "第四类·关键电气系统",
+   "category_en": "Category 4 · Critical Electrical Systems",
+   "product": "热剥器手柄M10-4A(4B,4C,2A)",
+   "description": "本品为MEISEI热剥器，适用于航空导线、军标线缆的热剥线作业场景。四川省金宏电子为MEISEI授权经销商，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/XcdNi-jT5aVsT6a-RxI7uxAB9xQ.jpg"
+  },
+  {
+   "brand": "MEISEI",
+   "category_cn": "第四类·关键电气系统",
+   "category_en": "Category 4 · Critical Electrical Systems",
+   "product": "原装美国进口 热剥器 M10-4A/4B/4C/2A",
+   "description": "本品为MEISEI热剥器，适用于航空导线、军标线缆的热剥线作业场景。四川省金宏电子为MEISEI授权经销商，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/XcdNi-jT5aVsT6a-RxI7uxAB9xQ.jpg"
+  },
+  {
+   "brand": "METCAL",
+   "category_cn": "第三类·焊接拆焊返修",
+   "category_en": "Category 3 · Soldering, Desoldering & Rework",
+   "product": "STTC-836 烙铁头",
+   "description": "本品为METCAL烙铁头，适用于电子装配、维修返修等焊接作业场景。四川省金宏电子为METCAL/OKI金牌代理商（2026年证书有效），提供原装正品与配套技术支持。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/oan3FBXayKFNb108OFsaohAB_mA.jpg"
+  },
+  {
+   "brand": "METCAL",
+   "category_cn": "第三类·焊接拆焊返修",
+   "category_en": "Category 3 · Soldering, Desoldering & Rework",
+   "product": "焊接、拆焊和返修系统MX-5200 和 MX-500",
+   "description": "本品为METCAL返修系统，适用于电子制造、维修维护与研发打样场景。四川省金宏电子为METCAL/OKI金牌代理商（2026年证书有效），提供原装正品与配套技术支持。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/oan3FBXayKFNb108OFsaohAB_mA.jpg"
+  },
+  {
+   "brand": "METCAL",
+   "category_cn": "第三类·焊接拆焊返修",
+   "category_en": "Category 3 · Soldering, Desoldering & Rework",
+   "product": "HCT2-200-21 热风枪",
+   "description": "本品为METCAL焊接设备，适用于电子制造、维修维护与研发打样场景。四川省金宏电子为METCAL/OKI金牌代理商（2026年证书有效），提供原装正品与配套技术支持。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/oan3FBXayKFNb108OFsaohAB_mA.jpg"
+  },
+  {
+   "brand": "PACE",
+   "category_cn": "第三类·焊接拆焊返修",
+   "category_en": "Category 3 · Soldering, Desoldering & Rework",
+   "product": "ADS 200 电焊台",
+   "description": "本品为PACE焊台，适用于电子装配、实验室研发与维修维护场景。四川省金宏电子经销PACE产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/ng1zupQtX7EsCbz3Gaz34RACOeg.jpg"
+  },
+  {
+   "brand": "PACE",
+   "category_cn": "第三类·焊接拆焊返修",
+   "category_en": "Category 3 · Soldering, Desoldering & Rework",
+   "product": "MBT-350E 返修台",
+   "description": "本品为PACE返修台，适用于电子制造、维修维护与研发打样场景。四川省金宏电子经销PACE产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/ng1zupQtX7EsCbz3Gaz34RACOeg.jpg"
+  },
+  {
+   "brand": "PACE",
+   "category_cn": "第三类·焊接拆焊返修",
+   "category_en": "Category 3 · Soldering, Desoldering & Rework",
+   "product": "MBT250,ST-50, ST-70",
+   "description": "本品为PACE焊接返修设备，适用于电子制造、维修维护与研发打样场景。四川省金宏电子经销PACE产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/JMwzU0UfQbW5Cv0OgHZs8RACgx4.jpg"
+  },
+  {
+   "brand": "IDEAL",
+   "category_cn": "第四类·关键电气系统",
+   "category_en": "Category 4 · Critical Electrical Systems",
+   "product": "航空专用屏蔽层外护套剥线器 绝缘",
+   "description": "本品为IDEAL剥线器，适用于线缆加工、线束装配场景。四川省金宏电子经销IDEAL产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/nwwLPoaKqDI0v6lW-S74_hAFX-Y.jpg"
+  },
+  {
+   "brand": "IDEAL",
+   "category_cn": "第四类·关键电气系统",
+   "category_en": "Category 4 · Critical Electrical Systems",
+   "product": "航空专用特种剥线器轻巧便携",
+   "description": "本品为IDEAL剥线器，适用于线缆加工、线束装配场景。四川省金宏电子经销IDEAL产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/nwwLPoaKqDI0v6lW-S74_hAFX-Y.jpg"
+  },
+  {
+   "brand": "IDEAL",
+   "category_cn": "第四类·关键电气系统",
+   "category_en": "Category 4 · Critical Electrical Systems",
+   "product": "航空专用剥线钳多种规格可选",
+   "description": "本品为IDEAL剥线钳，适用于线缆加工、线束装配场景。四川省金宏电子经销IDEAL产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/nwwLPoaKqDI0v6lW-S74_hAFX-Y.jpg"
+  },
+  {
+   "brand": "TE",
+   "category_cn": "第四类·关键电气系统",
+   "category_en": "Category 4 · Critical Electrical Systems",
+   "product": "91526-1 手动压接钳工具18-26AWG",
+   "description": "本品为TE压接钳，适用于航空连接器、端子压接装配场景。四川省金宏电子经销TE产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/M6N7Tyyht-Il9Qs7VmN5jxAC3zc.jpg"
+  },
+  {
+   "brand": "TE",
+   "category_cn": "第四类·关键电气系统",
+   "category_en": "Category 4 · Critical Electrical Systems",
+   "product": "泰科AD-1377 手动压接钳",
+   "description": "本品为TE压接钳，适用于航空连接器、端子压接装配场景。四川省金宏电子经销TE产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/M6N7Tyyht-Il9Qs7VmN5jxAC3zc.jpg"
+  },
+  {
+   "brand": "TE",
+   "category_cn": "第四类·关键电气系统",
+   "category_en": "Category 4 · Critical Electrical Systems",
+   "product": "91526-1 压接钳",
+   "description": "本品为TE压接钳，适用于航空连接器、端子压接装配场景。四川省金宏电子经销TE产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/M6N7Tyyht-Il9Qs7VmN5jxAC3zc.jpg"
+  },
+  {
+   "brand": "DMC",
+   "category_cn": "第四类·关键电气系统",
+   "category_en": "Category 4 · Critical Electrical Systems",
+   "product": "管型端子压线钳VE针型端子冷压接线EN管形端子针形管压接钳子",
+   "description": "本品为DMC压接钳，适用于航空连接器、端子压接装配场景。四川省金宏电子经销DMC产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/29PUlxC3ePgzGBh49WeX_xABJLw.jpg"
+  },
+  {
+   "brand": "MAXWELL",
+   "category_cn": "第七类·工业紧固件",
+   "category_en": "Category 7 · Industrial Fasteners",
+   "product": "进口 超级电容模组 500F,16V",
+   "description": "本品为MAXWELL超级电容，适用于储能、功率补偿等电气场景。四川省金宏电子经销MAXWELL产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/htjiXfj12uA45VAemNQ4ohAC94M.jpg"
+  },
+  {
+   "brand": "MAXWELL",
+   "category_cn": "第七类·工业紧固件",
+   "category_en": "Category 7 · Industrial Fasteners",
+   "product": "进口 超级电容模组 16V58F",
+   "description": "本品为MAXWELL超级电容，适用于储能、功率补偿等电气场景。四川省金宏电子经销MAXWELL产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/htjiXfj12uA45VAemNQ4ohAC94M.jpg"
+  },
+  {
+   "brand": "TECHCON",
+   "category_cn": "第五类·精密流体点胶",
+   "category_en": "Category 5 · Precision Fluid Dispensing",
+   "product": "Systems TS250/255系列点胶控制器",
+   "description": "本品为TECHCON点胶控制器，适用于电子装配、半导体封装等精密流体控制场景。四川省金宏电子经销TECHCON产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/SJNep0kXbQtUOgCns-qiXxAHurE.jpg"
+  },
+  {
+   "brand": "TECHCON",
+   "category_cn": "第五类·精密流体点胶",
+   "category_en": "Category 5 · Precision Fluid Dispensing",
+   "product": "密封胶垫,胶障成型,多组分材料,焊膏等智能化点胶系统",
+   "description": "本品为TECHCON点胶设备，适用于电子装配、半导体封装等精密流体控制场景。四川省金宏电子经销TECHCON产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/SJNep0kXbQtUOgCns-qiXxAHurE.jpg"
+  },
+  {
+   "brand": "TE",
+   "category_cn": "第四类·关键电气系统",
+   "category_en": "Category 4 · Critical Electrical Systems",
+   "product": "539972-1 退针器",
+   "description": "本品为TE退针器，适用于航空圆形连接器接触件的取送与维修场景。四川省金宏电子经销TE产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/16uBFar9C5Q65lT2zJp1ghADkug.jpg"
+  },
+  {
+   "brand": "IDEAL",
+   "category_cn": "第四类·关键电气系统",
+   "category_en": "Category 4 · Critical Electrical Systems",
+   "product": "航空专用精密线缆剥线钳",
+   "description": "本品为IDEAL剥线钳，适用于线缆加工、线束装配场景。四川省金宏电子经销IDEAL产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/SnvT8QlUWCAwBZoDX07suRAFUHc.jpg"
+  },
+  {
+   "brand": "FLIR",
+   "category_cn": "第八类·工业设备仪器仪表",
+   "category_en": "Category 8 · Industrial Equipment & Instruments",
+   "product": "E4、E5-XT、E6-XT和E8-XT红外热像仪",
+   "description": "本品为FLIR红外热像仪（E4、E5-XT、E6-XT、E8-XT），适用于设备巡检、电气维护与研发测试场景。XT系列为上一代型号，现为存量供应，售完为止。四川省金宏电子经销FLIR产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/etX9GbRtUK15HLszIdduARABbJU.jpg"
+  },
+  {
+   "brand": "MAXWELL",
+   "category_cn": "第七类·工业紧固件",
+   "category_en": "Category 7 · Industrial Fasteners",
+   "product": "超级电容模组 24V,48V,54V, 64V(订制)",
+   "description": "本品为MAXWELL超级电容，适用于储能、功率补偿等电气场景。四川省金宏电子经销MAXWELL产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/C5bVh7C-iKLBfNJ5LF9WRBACMh8.jpg"
+  },
+  {
+   "brand": "MAXWELL",
+   "category_cn": "第七类·工业紧固件",
+   "category_en": "Category 7 · Industrial Fasteners",
+   "product": "全新 超级法拉电容器2.7V 5F,10F,25F,50F,100F,150F",
+   "description": "本品为MAXWELL电容器，适用于储能、功率补偿等电气场景。四川省金宏电子经销MAXWELL产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/EIgNy1x8InD5LZZ76wruZRACjRc.jpg"
+  },
+  {
+   "brand": "PACE",
+   "category_cn": "第八类·工业设备仪器仪表",
+   "category_en": "Category 8 · Industrial Equipment & Instruments",
+   "product": "1207-0446-07-P1 温控器",
+   "description": "本品为PACE温控器，适用于工业自动化检测与过程控制场景。四川省金宏电子经销PACE产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/JMwzU0UfQbW5Cv0OgHZs8RACgx4.jpg"
+  },
+  {
+   "brand": "LINDSTROM",
+   "category_cn": "第二类·航空航天制造专用工具",
+   "category_en": "Category 2 · Aerospace Manufacturing Tools",
+   "product": "3C-SA",
+   "description": "本品为LINDSTROM精密钳类工具，适用于电子、精密机械的夹持剪切作业场景。四川省金宏电子经销LINDSTROM产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/58lxCMZ6mZm6aR8qmlHqexADNk4.jpg"
+  },
+  {
+   "brand": "LINDSTROM",
+   "category_cn": "第二类·航空航天制造专用工具",
+   "category_en": "Category 2 · Aerospace Manufacturing Tools",
+   "product": "649-SA",
+   "description": "本品为LINDSTROM精密钳类工具，适用于电子、精密机械的夹持剪切作业场景。四川省金宏电子经销LINDSTROM产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/FXwABuv27tkEs__11n2zXRADW3Q.jpg"
+  },
+  {
+   "brand": "LINDSTROM",
+   "category_cn": "第二类·航空航天制造专用工具",
+   "category_en": "Category 2 · Aerospace Manufacturing Tools",
+   "product": "BAHBE-8010",
+   "description": "本品为LINDSTROM精密钳类工具，适用于电子、精密机械的夹持剪切作业场景。四川省金宏电子经销LINDSTROM产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/58lxCMZ6mZm6aR8qmlHqexADNk4.jpg"
+  },
+  {
+   "brand": "IDEAL",
+   "category_cn": "第四类·关键电气系统",
+   "category_en": "Category 4 · Critical Electrical Systems",
+   "product": "航空专用剥线钳 压线器",
+   "description": "本品为IDEAL剥线钳，适用于线缆加工、线束装配场景。四川省金宏电子经销IDEAL产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/Qu1CsPgWWXWLEDoqCa07LRAF2BA.jpg"
+  },
+  {
+   "brand": "LINDSTROM",
+   "category_cn": "第二类·航空航天制造专用工具",
+   "category_en": "Category 2 · Aerospace Manufacturing Tools",
+   "product": "2-SA",
+   "description": "本品为LINDSTROM精密钳类工具，适用于电子、精密机械的夹持剪切作业场景。四川省金宏电子经销LINDSTROM产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/sew32eShZfKE-PmSFIHFmBADxIA.jpg"
+  },
+  {
+   "brand": "PACE",
+   "category_cn": "第三类·焊接拆焊返修",
+   "category_en": "Category 3 · Soldering, Desoldering & Rework",
+   "product": "MBT350 电烙铁拆焊吸嘴头自动回弹手动吸锡焊锡枪",
+   "description": "本品为PACE焊锡枪，适用于电子制造、维修维护与研发打样场景。四川省金宏电子经销PACE产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/XuFfthXlTH0n7u-hPhEMHBABdtE.jpg"
+  },
+  {
+   "brand": "DMC",
+   "category_cn": "第八类·工业设备仪器仪表",
+   "category_en": "Category 8 · Industrial Equipment & Instruments",
+   "product": "GAGE 11851工具 MPT-250C 电动拉力测试仪",
+   "description": "本品为DMC拉力测试仪，适用于装配力矩检测与质量管控场景。四川省金宏电子经销DMC产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/9Tm3HOsoDuyR8nK0ljW69xABZpE.jpg"
   }
  ]
 }
