@@ -5,7 +5,7 @@
  "contact": "赵丽萍 Zhao Liping 18502892127",
  "email": "583383692@qq.com",
  "note": "产品条目来自官网英文站产品库，每条均按商品实物图逐条识别核对品牌与型号；价格以询价为准。",
- "count": 253,
+ "count": 327,
  "products": [
   {
    "brand": "WELLER",
@@ -2030,6 +2030,598 @@
    "product": "GAGE 11851工具 MPT-250C 电动拉力测试仪",
    "description": "本品为DMC拉力测试仪，适用于装配力矩检测与质量管控场景。四川省金宏电子经销DMC产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
    "image": "https://b2b-material.cdn.bcebos.com/9Tm3HOsoDuyR8nK0ljW69xABZpE.jpg"
+  },
+  {
+   "brand": "LINDSTROM",
+   "category_cn": "第二类·航空航天制造专用工具",
+   "category_en": "Category 2 · Aerospace Manufacturing Tools",
+   "product": "7892RX",
+   "description": "本品为LINDSTROM精密钳类工具，适用于电子、精密机械的夹持剪切作业场景。四川省金宏电子经销LINDSTROM产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/sew32eShZfKE-PmSFIHFmBADxIA.jpg"
+  },
+  {
+   "brand": "MAXWELL",
+   "category_cn": "第七类·工业紧固件",
+   "category_en": "Category 7 · Industrial Fasteners",
+   "product": "超级法拉电容模组H型卧式超级电容24V48V54V64V",
+   "description": "本品为MAXWELL超级电容，适用于储能、功率补偿等电气场景。四川省金宏电子经销MAXWELL产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/C5bVh7C-iKLBfNJ5LF9WRBACMh8.jpg"
+  },
+  {
+   "brand": "DMC",
+   "category_cn": "第八类·工业设备仪器仪表",
+   "category_en": "Category 8 · Industrial Equipment & Instruments",
+   "product": "MPT-250C 拉力测试仪",
+   "description": "本品为DMC拉力测试仪，适用于装配力矩检测与质量管控场景。四川省金宏电子经销DMC产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/9Tm3HOsoDuyR8nK0ljW69xABZpE.jpg"
+  },
+  {
+   "brand": "METCAL",
+   "category_cn": "第三类·焊接拆焊返修",
+   "category_en": "Category 3 · Soldering, Desoldering & Rework",
+   "product": "BVX-250大功率小体积静音烟雾净化系统",
+   "description": "本品为METCAL烟雾净化设备，适用于焊接作业环境的烟雾净化场景。四川省金宏电子为METCAL/OKI金牌代理商（2026年证书有效），提供原装正品与配套技术支持。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/iQbrpcGx8JUGdfEkwWp4tRABDNM.jpg"
+  },
+  {
+   "brand": "LINDSTROM",
+   "category_cn": "第二类·航空航天制造专用工具",
+   "category_en": "Category 2 · Aerospace Manufacturing Tools",
+   "product": "00-SA-ET",
+   "description": "本品为LINDSTROM精密钳类工具，适用于电子、精密机械的夹持剪切作业场景。四川省金宏电子经销LINDSTROM产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/sew32eShZfKE-PmSFIHFmBADxIA.jpg"
+  },
+  {
+   "brand": "METCAL/OKI",
+   "category_cn": "第三类·焊接拆焊返修",
+   "category_en": "Category 3 · Soldering, Desoldering & Rework",
+   "product": "MX-500S 电焊台",
+   "description": "本品为METCAL/OKI焊台，适用于电子装配、实验室研发与维修维护场景。四川省金宏电子为METCAL/OKI金牌代理商（2026年证书有效），提供原装正品与配套技术支持。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/4-_HArMYWbqEF1vYKh1trRABga8.jpg"
+  },
+  {
+   "brand": "TE",
+   "category_cn": "第四类·关键电气系统",
+   "category_en": "Category 4 · Critical Electrical Systems",
+   "product": "539972-1(专用取送工具)",
+   "description": "本品为TE取送工具，适用于航空圆形连接器接触件的取送与维修场景。四川省金宏电子经销TE产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/16uBFar9C5Q65lT2zJp1ghADkug.jpg"
+  },
+  {
+   "brand": "LINDSTROM",
+   "category_cn": "第二类·航空航天制造专用工具",
+   "category_en": "Category 2 · Aerospace Manufacturing Tools",
+   "product": "GG-SA",
+   "description": "本品为LINDSTROM精密钳类工具，适用于电子、精密机械的夹持剪切作业场景。四川省金宏电子经销LINDSTROM产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/58lxCMZ6mZm6aR8qmlHqexADNk4.jpg"
+  },
+  {
+   "brand": "DMC",
+   "category_cn": "第四类·关键电气系统",
+   "category_en": "Category 4 · Critical Electrical Systems",
+   "product": "SCTR323 手动保险枪",
+   "description": "本品为DMC航空工具，适用于航空连接器装配、维修场景。四川省金宏电子经销DMC产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/87nHCnmiXcIQh2Ca6m7JpBABYjo.jpg"
+  },
+  {
+   "brand": "METCAL/OKI",
+   "category_cn": "第三类·焊接拆焊返修",
+   "category_en": "Category 3 · Soldering, Desoldering & Rework",
+   "product": "MFR-1160电焊台",
+   "description": "本品为METCAL/OKI焊台，适用于电子装配、实验室研发与维修维护场景。四川省金宏电子为METCAL/OKI金牌代理商（2026年证书有效），提供原装正品与配套技术支持。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/sqjeZ-9UjrKwpO2kV85jIRAAVqY.jpg"
+  },
+  {
+   "brand": "TE",
+   "category_cn": "第八类·工业设备仪器仪表",
+   "category_en": "Category 8 · Industrial Equipment & Instruments",
+   "product": "189727-1(插针和退针工具)",
+   "description": "本品为TE工业工具，适用于工业制造、装配维修等通用场景。四川省金宏电子经销TE产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/M6N7Tyyht-Il9Qs7VmN5jxAC3zc.jpg"
+  },
+  {
+   "brand": "LINDSTROM",
+   "category_cn": "第二类·航空航天制造专用工具",
+   "category_en": "Category 2 · Aerospace Manufacturing Tools",
+   "product": "269CF-SA",
+   "description": "本品为LINDSTROM精密钳类工具，适用于电子、精密机械的夹持剪切作业场景。四川省金宏电子经销LINDSTROM产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/fsXrmr4Bo_LEbOAR3lqBPRADngQ.jpg"
+  },
+  {
+   "brand": "METCAL/OKI",
+   "category_cn": "第三类·焊接拆焊返修",
+   "category_en": "Category 3 · Soldering, Desoldering & Rework",
+   "product": "MRS-1100A BGA返修站",
+   "description": "本品为METCAL/OKI返修站，适用于电子制造、维修维护与研发打样场景。四川省金宏电子为METCAL/OKI金牌代理商（2026年证书有效），提供原装正品与配套技术支持。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/ezoWdKpj-X7dn1qbvuqj4hABVfY.jpg"
+  },
+  {
+   "brand": "LINDSTROM",
+   "category_cn": "第二类·航空航天制造专用工具",
+   "category_en": "Category 2 · Aerospace Manufacturing Tools",
+   "product": "2WFCPR-SA",
+   "description": "本品为LINDSTROM精密钳类工具，适用于电子、精密机械的夹持剪切作业场景。四川省金宏电子经销LINDSTROM产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/FXwABuv27tkEs__11n2zXRADW3Q.jpg"
+  },
+  {
+   "brand": "LINDSTROM",
+   "category_cn": "第二类·航空航天制造专用工具",
+   "category_en": "Category 2 · Aerospace Manufacturing Tools",
+   "product": "51S245L-NC",
+   "description": "本品为LINDSTROM精密钳类工具，适用于电子、精密机械的夹持剪切作业场景。四川省金宏电子经销LINDSTROM产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/sew32eShZfKE-PmSFIHFmBADxIA.jpg"
+  },
+  {
+   "brand": "PACE",
+   "category_cn": "第八类·工业设备仪器仪表",
+   "category_en": "Category 8 · Industrial Equipment & Instruments",
+   "product": "PM 200 测温仪",
+   "description": "本品为PACE测温仪，适用于工业测温、设备点检场景。四川省金宏电子经销PACE产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/XuFfthXlTH0n7u-hPhEMHBABdtE.jpg"
+  },
+  {
+   "brand": "ideal-tek",
+   "category_cn": "第四类·关键电气系统",
+   "category_en": "Category 4 · Critical Electrical Systems",
+   "product": "镊子 7.SA",
+   "description": "本品为ideal-tek防静电镊子，适用于电子元器件夹取装配场景。四川省金宏电子经销ideal-tek产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/SnvT8QlUWCAwBZoDX07suRAFUHc.jpg"
+  },
+  {
+   "brand": "LINDSTROM",
+   "category_cn": "第二类·航空航天制造专用工具",
+   "category_en": "Category 2 · Aerospace Manufacturing Tools",
+   "product": "RX-7894",
+   "description": "本品为LINDSTROM精密钳类工具，适用于电子、精密机械的夹持剪切作业场景。四川省金宏电子经销LINDSTROM产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/58lxCMZ6mZm6aR8qmlHqexADNk4.jpg"
+  },
+  {
+   "brand": "LINDSTROM",
+   "category_cn": "第二类·航空航天制造专用工具",
+   "category_en": "Category 2 · Aerospace Manufacturing Tools",
+   "product": "RX8145 斜口钳",
+   "description": "本品为LINDSTROM斜口钳，适用于夹持、剪切、弯曲等钳工作业场景。四川省金宏电子经销LINDSTROM产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/fsXrmr4Bo_LEbOAR3lqBPRADngQ.jpg"
+  },
+  {
+   "brand": "DMC",
+   "category_cn": "第四类·关键电气系统",
+   "category_en": "Category 4 · Critical Electrical Systems",
+   "product": "的取送工具,M8196914-04",
+   "description": "本品为DMC取送工具，适用于航空圆形连接器接触件的取送与维修场景。四川省金宏电子经销DMC产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/usGovBRNmtWMaTQOk75iNhABUgo.jpg"
+  },
+  {
+   "brand": "LINDSTROM",
+   "category_cn": "第二类·航空航天制造专用工具",
+   "category_en": "Category 2 · Aerospace Manufacturing Tools",
+   "product": "RX 8135 斜口钳工具",
+   "description": "本品为LINDSTROM斜口钳，适用于夹持、剪切、弯曲等钳工作业场景。四川省金宏电子经销LINDSTROM产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/FXwABuv27tkEs__11n2zXRADW3Q.jpg"
+  },
+  {
+   "brand": "DMC",
+   "category_cn": "第四类·关键电气系统",
+   "category_en": "Category 4 · Critical Electrical Systems",
+   "product": "的取送工具M8196914 05",
+   "description": "本品为DMC取送工具，适用于航空圆形连接器接触件的取送与维修场景。四川省金宏电子经销DMC产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/J84NLX9kNBGU9CrgUqcDNxABLwM.jpg"
+  },
+  {
+   "brand": "DMC",
+   "category_cn": "第四类·关键电气系统",
+   "category_en": "Category 4 · Critical Electrical Systems",
+   "product": "的取送工具,M8196914-10",
+   "description": "本品为DMC取送工具，适用于航空圆形连接器接触件的取送与维修场景。四川省金宏电子经销DMC产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/29PUlxC3ePgzGBh49WeX_xABJLw.jpg"
+  },
+  {
+   "brand": "LINDSTROM",
+   "category_cn": "第二类·航空航天制造专用工具",
+   "category_en": "Category 2 · Aerospace Manufacturing Tools",
+   "product": "8132 斜口钳",
+   "description": "本品为LINDSTROM斜口钳，适用于夹持、剪切、弯曲等钳工作业场景。四川省金宏电子经销LINDSTROM产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/sew32eShZfKE-PmSFIHFmBADxIA.jpg"
+  },
+  {
+   "brand": "LINDSTROM",
+   "category_cn": "第二类·航空航天制造专用工具",
+   "category_en": "Category 2 · Aerospace Manufacturing Tools",
+   "product": "HS-7290",
+   "description": "本品为LINDSTROM精密钳类工具，适用于电子、精密机械的夹持剪切作业场景。四川省金宏电子经销LINDSTROM产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/sew32eShZfKE-PmSFIHFmBADxIA.jpg"
+  },
+  {
+   "brand": "LINDSTROM",
+   "category_cn": "第二类·航空航天制造专用工具",
+   "category_en": "Category 2 · Aerospace Manufacturing Tools",
+   "product": "ESD 7154TC",
+   "description": "本品为LINDSTROM精密钳类工具，适用于电子、精密机械的夹持剪切作业场景。四川省金宏电子经销LINDSTROM产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/sew32eShZfKE-PmSFIHFmBADxIA.jpg"
+  },
+  {
+   "brand": "LINDSTROM",
+   "category_cn": "第二类·航空航天制造专用工具",
+   "category_en": "Category 2 · Aerospace Manufacturing Tools",
+   "product": "HS8211",
+   "description": "本品为LINDSTROM精密钳类工具，适用于电子、精密机械的夹持剪切作业场景。四川省金宏电子经销LINDSTROM产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/sew32eShZfKE-PmSFIHFmBADxIA.jpg"
+  },
+  {
+   "brand": "LINDSTROM",
+   "category_cn": "第二类·航空航天制造专用工具",
+   "category_en": "Category 2 · Aerospace Manufacturing Tools",
+   "product": "ERGO Side Cutter P6160",
+   "description": "本品为LINDSTROM精密钳类工具，适用于电子、精密机械的夹持剪切作业场景。四川省金宏电子经销LINDSTROM产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/sew32eShZfKE-PmSFIHFmBADxIA.jpg"
+  },
+  {
+   "brand": "LINDSTROM",
+   "category_cn": "第二类·航空航天制造专用工具",
+   "category_en": "Category 2 · Aerospace Manufacturing Tools",
+   "product": "HS6000",
+   "description": "本品为LINDSTROM精密钳类工具，适用于电子、精密机械的夹持剪切作业场景。四川省金宏电子经销LINDSTROM产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/sew32eShZfKE-PmSFIHFmBADxIA.jpg"
+  },
+  {
+   "brand": "LINDSTROM",
+   "category_cn": "第二类·航空航天制造专用工具",
+   "category_en": "Category 2 · Aerospace Manufacturing Tools",
+   "product": "RX-7833",
+   "description": "本品为LINDSTROM精密钳类工具，适用于电子、精密机械的夹持剪切作业场景。四川省金宏电子经销LINDSTROM产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/sew32eShZfKE-PmSFIHFmBADxIA.jpg"
+  },
+  {
+   "brand": "LINDSTROM",
+   "category_cn": "第二类·航空航天制造专用工具",
+   "category_en": "Category 2 · Aerospace Manufacturing Tools",
+   "product": "RX-7390",
+   "description": "本品为LINDSTROM精密钳类工具，适用于电子、精密机械的夹持剪切作业场景。四川省金宏电子经销LINDSTROM产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/sew32eShZfKE-PmSFIHFmBADxIA.jpg"
+  },
+  {
+   "brand": "LINDSTROM",
+   "category_cn": "第二类·航空航天制造专用工具",
+   "category_en": "Category 2 · Aerospace Manufacturing Tools",
+   "product": "BAHBE-9875",
+   "description": "本品为LINDSTROM精密钳类工具，适用于电子、精密机械的夹持剪切作业场景。四川省金宏电子经销LINDSTROM产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/sew32eShZfKE-PmSFIHFmBADxIA.jpg"
+  },
+  {
+   "brand": "LINDSTROM",
+   "category_cn": "第二类·航空航天制造专用工具",
+   "category_en": "Category 2 · Aerospace Manufacturing Tools",
+   "product": "HS-7292",
+   "description": "本品为LINDSTROM精密钳类工具，适用于电子、精密机械的夹持剪切作业场景。四川省金宏电子经销LINDSTROM产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/sew32eShZfKE-PmSFIHFmBADxIA.jpg"
+  },
+  {
+   "brand": "LINDSTROM",
+   "category_cn": "第二类·航空航天制造专用工具",
+   "category_en": "Category 2 · Aerospace Manufacturing Tools",
+   "product": "RX-8133",
+   "description": "本品为LINDSTROM精密钳类工具，适用于电子、精密机械的夹持剪切作业场景。四川省金宏电子经销LINDSTROM产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/sew32eShZfKE-PmSFIHFmBADxIA.jpg"
+  },
+  {
+   "brand": "LINDSTROM",
+   "category_cn": "第二类·航空航天制造专用工具",
+   "category_en": "Category 2 · Aerospace Manufacturing Tools",
+   "product": "HS系列-HS-8130",
+   "description": "本品为LINDSTROM精密钳类工具，适用于电子、精密机械的夹持剪切作业场景。四川省金宏电子经销LINDSTROM产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/sew32eShZfKE-PmSFIHFmBADxIA.jpg"
+  },
+  {
+   "brand": "DMC",
+   "category_cn": "第四类·关键电气系统",
+   "category_en": "Category 4 · Critical Electrical Systems",
+   "product": "的取送工具,M8196914-03",
+   "description": "本品为DMC取送工具，适用于航空圆形连接器接触件的取送与维修场景。四川省金宏电子经销DMC产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/9Tm3HOsoDuyR8nK0ljW69xABZpE.jpg"
+  },
+  {
+   "brand": "DMC",
+   "category_cn": "第四类·关键电气系统",
+   "category_en": "Category 4 · Critical Electrical Systems",
+   "product": "Y141 压模 M22520 5-43 用于HX4 压接钳M22520 5-01",
+   "description": "本品为DMC压接钳，适用于航空连接器、端子压接装配场景。四川省金宏电子经销DMC产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/9Tm3HOsoDuyR8nK0ljW69xABZpE.jpg"
+  },
+  {
+   "brand": "DMC",
+   "category_cn": "第四类·关键电气系统",
+   "category_en": "Category 4 · Critical Electrical Systems",
+   "product": "WA27 气动压接钳",
+   "description": "本品为DMC压接钳，适用于航空连接器、端子压接装配场景。四川省金宏电子经销DMC产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/9Tm3HOsoDuyR8nK0ljW69xABZpE.jpg"
+  },
+  {
+   "brand": "DMC",
+   "category_cn": "第四类·关键电气系统",
+   "category_en": "Category 4 · Critical Electrical Systems",
+   "product": "的取送工具,M8196914-01",
+   "description": "本品为DMC取送工具，适用于航空圆形连接器接触件的取送与维修场景。四川省金宏电子经销DMC产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/9Tm3HOsoDuyR8nK0ljW69xABZpE.jpg"
+  },
+  {
+   "brand": "LINDSTROM",
+   "category_cn": "第二类·航空航天制造专用工具",
+   "category_en": "Category 2 · Aerospace Manufacturing Tools",
+   "product": "2A-ACF",
+   "description": "本品为LINDSTROM精密钳类工具，适用于电子、精密机械的夹持剪切作业场景。四川省金宏电子经销LINDSTROM产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/sew32eShZfKE-PmSFIHFmBADxIA.jpg"
+  },
+  {
+   "brand": "LINDSTROM",
+   "category_cn": "第二类·航空航天制造专用工具",
+   "category_en": "Category 2 · Aerospace Manufacturing Tools",
+   "product": "7-ACF",
+   "description": "本品为LINDSTROM精密钳类工具，适用于电子、精密机械的夹持剪切作业场景。四川省金宏电子经销LINDSTROM产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/sew32eShZfKE-PmSFIHFmBADxIA.jpg"
+  },
+  {
+   "brand": "ERSA",
+   "category_cn": "第三类·焊接拆焊返修",
+   "category_en": "Category 3 · Soldering, Desoldering & Rework",
+   "product": "德国电焊台 电焊台 i-CON 2V 0IC2200V",
+   "description": "本品为ERSA焊台，适用于电子装配、实验室研发与维修维护场景。四川省金宏电子经销ERSA产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/XyjSX8MCpMCjFGvIBfjWlhABPZk.jpg"
+  },
+  {
+   "brand": "DMC",
+   "category_cn": "第四类·关键电气系统",
+   "category_en": "Category 4 · Critical Electrical Systems",
+   "product": "M225201-01 压接钳 AF8",
+   "description": "本品为DMC压接钳，适用于航空连接器、端子压接装配场景。四川省金宏电子经销DMC产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/usGovBRNmtWMaTQOk75iNhABUgo.jpg"
+  },
+  {
+   "brand": "LINDSTROM",
+   "category_cn": "第二类·航空航天制造专用工具",
+   "category_en": "Category 2 · Aerospace Manufacturing Tools",
+   "product": "705CF",
+   "description": "本品为LINDSTROM精密钳类工具，适用于电子、精密机械的夹持剪切作业场景。四川省金宏电子经销LINDSTROM产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/878Es5zk2lyM-DAwG1lcRRADxHg.jpg"
+  },
+  {
+   "brand": "LINDSTROM",
+   "category_cn": "第二类·航空航天制造专用工具",
+   "category_en": "Category 2 · Aerospace Manufacturing Tools",
+   "product": "80系列8130:防静合成体材料板簧",
+   "description": "本品为LINDSTROM精密钳类工具，适用于电子、精密机械的夹持剪切作业场景。四川省金宏电子经销LINDSTROM产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/sew32eShZfKE-PmSFIHFmBADxIA.jpg"
+  },
+  {
+   "brand": "LINDSTROM",
+   "category_cn": "第二类·航空航天制造专用工具",
+   "category_en": "Category 2 · Aerospace Manufacturing Tools",
+   "product": "249CF-SA",
+   "description": "本品为LINDSTROM精密钳类工具，适用于电子、精密机械的夹持剪切作业场景。四川省金宏电子经销LINDSTROM产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/58lxCMZ6mZm6aR8qmlHqexADNk4.jpg"
+  },
+  {
+   "brand": "LINDSTROM",
+   "category_cn": "第二类·航空航天制造专用工具",
+   "category_en": "Category 2 · Aerospace Manufacturing Tools",
+   "product": "BAHBE-8702",
+   "description": "本品为LINDSTROM精密钳类工具，适用于电子、精密机械的夹持剪切作业场景。四川省金宏电子经销LINDSTROM产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/878Es5zk2lyM-DAwG1lcRRADxHg.jpg"
+  },
+  {
+   "brand": "LINDSTROM",
+   "category_cn": "第二类·航空航天制造专用工具",
+   "category_en": "Category 2 · Aerospace Manufacturing Tools",
+   "product": "BAHBE-9886",
+   "description": "本品为LINDSTROM精密钳类工具，适用于电子、精密机械的夹持剪切作业场景。四川省金宏电子经销LINDSTROM产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/fsXrmr4Bo_LEbOAR3lqBPRADngQ.jpg"
+  },
+  {
+   "brand": "LINDSTROM",
+   "category_cn": "第二类·航空航天制造专用工具",
+   "category_en": "Category 2 · Aerospace Manufacturing Tools",
+   "product": "BAH7A-SA",
+   "description": "本品为LINDSTROM精密钳类工具，适用于电子、精密机械的夹持剪切作业场景。四川省金宏电子经销LINDSTROM产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/sew32eShZfKE-PmSFIHFmBADxIA.jpg"
+  },
+  {
+   "brand": "LINDSTROM",
+   "category_cn": "第二类·航空航天制造专用工具",
+   "category_en": "Category 2 · Aerospace Manufacturing Tools",
+   "product": "HS7293",
+   "description": "本品为LINDSTROM精密钳类工具，适用于电子、精密机械的夹持剪切作业场景。四川省金宏电子经销LINDSTROM产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/878Es5zk2lyM-DAwG1lcRRADxHg.jpg"
+  },
+  {
+   "brand": "LINDSTROM",
+   "category_cn": "第二类·航空航天制造专用工具",
+   "category_en": "Category 2 · Aerospace Manufacturing Tools",
+   "product": "HS8247",
+   "description": "本品为LINDSTROM精密钳类工具，适用于电子、精密机械的夹持剪切作业场景。四川省金宏电子经销LINDSTROM产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/FXwABuv27tkEs__11n2zXRADW3Q.jpg"
+  },
+  {
+   "brand": "LINDSTROM",
+   "category_cn": "第二类·航空航天制造专用工具",
+   "category_en": "Category 2 · Aerospace Manufacturing Tools",
+   "product": "HS8248",
+   "description": "本品为LINDSTROM精密钳类工具，适用于电子、精密机械的夹持剪切作业场景。四川省金宏电子经销LINDSTROM产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/878Es5zk2lyM-DAwG1lcRRADxHg.jpg"
+  },
+  {
+   "brand": "LINDSTROM",
+   "category_cn": "第二类·航空航天制造专用工具",
+   "category_en": "Category 2 · Aerospace Manufacturing Tools",
+   "product": "HS-7280",
+   "description": "本品为LINDSTROM精密钳类工具，适用于电子、精密机械的夹持剪切作业场景。四川省金宏电子经销LINDSTROM产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/fsXrmr4Bo_LEbOAR3lqBPRADngQ.jpg"
+  },
+  {
+   "brand": "LINDSTROM",
+   "category_cn": "第二类·航空航天制造专用工具",
+   "category_en": "Category 2 · Aerospace Manufacturing Tools",
+   "product": "HS系列超大型杠杆式符合人体",
+   "description": "本品为LINDSTROM精密钳类工具，适用于电子、精密机械的夹持剪切作业场景。四川省金宏电子经销LINDSTROM产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/FXwABuv27tkEs__11n2zXRADW3Q.jpg"
+  },
+  {
+   "brand": "LINDSTROM",
+   "category_cn": "第二类·航空航天制造专用工具",
+   "category_en": "Category 2 · Aerospace Manufacturing Tools",
+   "product": "RX-7891",
+   "description": "本品为LINDSTROM精密钳类工具，适用于电子、精密机械的夹持剪切作业场景。四川省金宏电子经销LINDSTROM产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/878Es5zk2lyM-DAwG1lcRRADxHg.jpg"
+  },
+  {
+   "brand": "LINDSTROM",
+   "category_cn": "第二类·航空航天制造专用工具",
+   "category_en": "Category 2 · Aerospace Manufacturing Tools",
+   "product": "RX-7590",
+   "description": "本品为LINDSTROM精密钳类工具，适用于电子、精密机械的夹持剪切作业场景。四川省金宏电子经销LINDSTROM产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/fsXrmr4Bo_LEbOAR3lqBPRADngQ.jpg"
+  },
+  {
+   "brand": "LINDSTROM",
+   "category_cn": "第二类·航空航天制造专用工具",
+   "category_en": "Category 2 · Aerospace Manufacturing Tools",
+   "product": "RX-8136",
+   "description": "本品为LINDSTROM精密钳类工具，适用于电子、精密机械的夹持剪切作业场景。四川省金宏电子经销LINDSTROM产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/FXwABuv27tkEs__11n2zXRADW3Q.jpg"
+  },
+  {
+   "brand": "LINDSTROM",
+   "category_cn": "第二类·航空航天制造专用工具",
+   "category_en": "Category 2 · Aerospace Manufacturing Tools",
+   "product": "PS501-1D",
+   "description": "本品为LINDSTROM精密钳类工具，适用于电子、精密机械的夹持剪切作业场景。四川省金宏电子经销LINDSTROM产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/58lxCMZ6mZm6aR8qmlHqexADNk4.jpg"
+  },
+  {
+   "brand": "LINDSTROM",
+   "category_cn": "第二类·航空航天制造专用工具",
+   "category_en": "Category 2 · Aerospace Manufacturing Tools",
+   "product": "RX8140PS",
+   "description": "本品为LINDSTROM精密钳类工具，适用于电子、精密机械的夹持剪切作业场景。四川省金宏电子经销LINDSTROM产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/sew32eShZfKE-PmSFIHFmBADxIA.jpg"
+  },
+  {
+   "brand": "PACE",
+   "category_cn": "第三类·焊接拆焊返修",
+   "category_en": "Category 3 · Soldering, Desoldering & Rework",
+   "product": "返修台IR1000,ST925, 操作简单,搭配灵活",
+   "description": "本品为PACE返修台，适用于电子制造、维修维护与研发打样场景。四川省金宏电子经销PACE产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/hDFUIFDlmc09U6EspmHxexACDaU.jpg"
+  },
+  {
+   "brand": "LINDSTROM",
+   "category_cn": "第二类·航空航天制造专用工具",
+   "category_en": "Category 2 · Aerospace Manufacturing Tools",
+   "product": "至尊系列",
+   "description": "本品为LINDSTROM精密钳类工具，适用于电子、精密机械的夹持剪切作业场景。四川省金宏电子经销LINDSTROM产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/fsXrmr4Bo_LEbOAR3lqBPRADngQ.jpg"
+  },
+  {
+   "brand": "PACE",
+   "category_cn": "第三类·焊接拆焊返修",
+   "category_en": "Category 3 · Soldering, Desoldering & Rework",
+   "product": "EVAC Arm-150多级过滤,多重保护,排烟优秀,性能卓越",
+   "description": "本品为PACE焊接返修设备，适用于电子制造、维修维护与研发打样场景。四川省金宏电子经销PACE产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/XuFfthXlTH0n7u-hPhEMHBABdtE.jpg"
+  },
+  {
+   "brand": "LINDSTROM",
+   "category_cn": "第二类·航空航天制造专用工具",
+   "category_en": "Category 2 · Aerospace Manufacturing Tools",
+   "product": "对角切割器 椭圆形封头 RX-8130",
+   "description": "本品为LINDSTROM精密钳类工具，适用于电子、精密机械的夹持剪切作业场景。四川省金宏电子经销LINDSTROM产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/58lxCMZ6mZm6aR8qmlHqexADNk4.jpg"
+  },
+  {
+   "brand": "LINDSTROM",
+   "category_cn": "第二类·航空航天制造专用工具",
+   "category_en": "Category 2 · Aerospace Manufacturing Tools",
+   "product": "RX系列舒适、性能和精度",
+   "description": "本品为LINDSTROM精密钳类工具，适用于电子、精密机械的夹持剪切作业场景。四川省金宏电子经销LINDSTROM产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/878Es5zk2lyM-DAwG1lcRRADxHg.jpg"
+  },
+  {
+   "brand": "LINDSTROM",
+   "category_cn": "第二类·航空航天制造专用工具",
+   "category_en": "Category 2 · Aerospace Manufacturing Tools",
+   "product": "SM104-SA",
+   "description": "本品为LINDSTROM精密钳类工具，适用于电子、精密机械的夹持剪切作业场景。四川省金宏电子经销LINDSTROM产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/fsXrmr4Bo_LEbOAR3lqBPRADngQ.jpg"
+  },
+  {
+   "brand": "LINDSTROM",
+   "category_cn": "第二类·航空航天制造专用工具",
+   "category_en": "Category 2 · Aerospace Manufacturing Tools",
+   "product": "RX8233A",
+   "description": "本品为LINDSTROM精密钳类工具，适用于电子、精密机械的夹持剪切作业场景。四川省金宏电子经销LINDSTROM产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/sew32eShZfKE-PmSFIHFmBADxIA.jpg"
+  },
+  {
+   "brand": "DMC",
+   "category_cn": "第四类·关键电气系统",
+   "category_en": "Category 4 · Critical Electrical Systems",
+   "product": "M22520/2-01 AFM8,M22520/5-01",
+   "description": "本品为DMC航空工具，适用于航空连接器装配、维修场景。四川省金宏电子经销DMC产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/9Tm3HOsoDuyR8nK0ljW69xABZpE.jpg"
+  },
+  {
+   "brand": "LINDSTROM",
+   "category_cn": "第二类·航空航天制造专用工具",
+   "category_en": "Category 2 · Aerospace Manufacturing Tools",
+   "product": "TRX-8180",
+   "description": "本品为LINDSTROM精密钳类工具，适用于电子、精密机械的夹持剪切作业场景。四川省金宏电子经销LINDSTROM产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/sew32eShZfKE-PmSFIHFmBADxIA.jpg"
+  },
+  {
+   "brand": "LINDSTROM",
+   "category_cn": "第二类·航空航天制造专用工具",
+   "category_en": "Category 2 · Aerospace Manufacturing Tools",
+   "product": "RX-8248",
+   "description": "本品为LINDSTROM精密钳类工具，适用于电子、精密机械的夹持剪切作业场景。四川省金宏电子经销LINDSTROM产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/58lxCMZ6mZm6aR8qmlHqexADNk4.jpg"
+  },
+  {
+   "brand": "DMC",
+   "category_cn": "第四类·关键电气系统",
+   "category_en": "Category 4 · Critical Electrical Systems",
+   "product": "M22520/2-01 AFM8 压接钳,M22520/1-01,M22520/5-01",
+   "description": "本品为DMC压接钳，适用于航空连接器、端子压接装配场景。四川省金宏电子经销DMC产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/J84NLX9kNBGU9CrgUqcDNxABLwM.jpg"
+  },
+  {
+   "brand": "LINDSTROM",
+   "category_cn": "第八类·工业设备仪器仪表",
+   "category_en": "Category 8 · Industrial Equipment & Instruments",
+   "product": "HS6000 (防静电)",
+   "description": "本品为LINDSTROM防静电产品，适用于电子制造静电防护与测试场景。四川省金宏电子经销LINDSTROM产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/878Es5zk2lyM-DAwG1lcRRADxHg.jpg"
+  },
+  {
+   "brand": "LINDSTROM",
+   "category_cn": "第八类·工业设备仪器仪表",
+   "category_en": "Category 8 · Industrial Equipment & Instruments",
+   "product": "RX8140 (防静电)",
+   "description": "本品为LINDSTROM防静电产品，适用于电子制造静电防护与测试场景。四川省金宏电子经销LINDSTROM产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/sew32eShZfKE-PmSFIHFmBADxIA.jpg"
+  },
+  {
+   "brand": "LINDSTROM",
+   "category_cn": "第八类·工业设备仪器仪表",
+   "category_en": "Category 8 · Industrial Equipment & Instruments",
+   "product": "精密斜口钳 防静电 RX 8150",
+   "description": "本品为LINDSTROM防静电产品，适用于电子制造静电防护与测试场景。四川省金宏电子经销LINDSTROM产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/sew32eShZfKE-PmSFIHFmBADxIA.jpg"
+  },
+  {
+   "brand": "LINDSTROM",
+   "category_cn": "第二类·航空航天制造专用工具",
+   "category_en": "Category 2 · Aerospace Manufacturing Tools",
+   "product": "原版 80系列刀具",
+   "description": "本品为LINDSTROM精密钳类工具，适用于电子、精密机械的夹持剪切作业场景。四川省金宏电子经销LINDSTROM产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/sew32eShZfKE-PmSFIHFmBADxIA.jpg"
   }
  ]
 }
