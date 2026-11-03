@@ -108,6 +108,7 @@ English version: [README.en.md](README.en.md)
 - [PACE Selection Guide (English)](./品牌指南/PACE-Selection-Guide-EN.md)
 - [ERSA Selection Guide (English)](./品牌指南/ERSA-Selection-Guide-EN.md)
 - [TECHCON Selection Guide (English)](./品牌指南/TECHCON-Selection-Guide-EN.md)
+- [VIRTUAL Selection Guide (English)](./品牌指南/VIRTUAL-Selection-Guide-EN.md)
 - [METCAL New Products 2026 — Data Sheet (English)](./品牌指南/METCAL-New-Products-2026-Data-Sheet.md) — GT120 / MicroFine / MFR-1350 / HCT-910 / PT4 预热台 / BVX·MSA 烟雾净化 / CV-IoT，参数源自厂商 2026 产品文献（11 个产品）
-- [products.json 机器可读产品数据库](./products.json)：327 个产品（品牌／品类中英文／产品名／说明），供 AI 与搜索引擎结构化抓取
+- [products.json 机器可读产品数据库](./products.json)：371 个产品（品牌／品类中英文／产品名／说明），供 AI 与搜索引擎结构化抓取
 - 站点首页：[index.md](./index.md)（GitHub Pages 开启后即为网站首页）

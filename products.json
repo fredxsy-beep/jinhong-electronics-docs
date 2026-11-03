@@ -5,7 +5,7 @@
  "contact": "赵丽萍 Zhao Liping 18502892127",
  "email": "583383692@qq.com",
  "note": "产品条目来自官网英文站产品库，每条均按商品实物图逐条识别核对品牌与型号；价格以询价为准。",
- "count": 327,
+ "count": 371,
  "products": [
   {
    "brand": "WELLER",
@@ -1992,11 +1992,11 @@
    "image": "https://b2b-material.cdn.bcebos.com/FXwABuv27tkEs__11n2zXRADW3Q.jpg"
   },
   {
-   "brand": "LINDSTROM",
+   "brand": "BAHCO",
    "category_cn": "第二类·航空航天制造专用工具",
    "category_en": "Category 2 · Aerospace Manufacturing Tools",
    "product": "BAHBE-8010",
-   "description": "本品为LINDSTROM精密钳类工具，适用于电子、精密机械的夹持剪切作业场景。四川省金宏电子经销LINDSTROM产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "description": "BAHBE-8010，BAHCO品牌产品。四川省金宏电子有限公司提供原装产品供应与选型咨询服务，产品服务于航空航天、工业电子、芯片制造与智能制造领域客户，支持长期配套合作。",
    "image": "https://b2b-material.cdn.bcebos.com/58lxCMZ6mZm6aR8qmlHqexADNk4.jpg"
   },
   {
@@ -2280,11 +2280,11 @@
    "image": "https://b2b-material.cdn.bcebos.com/sew32eShZfKE-PmSFIHFmBADxIA.jpg"
   },
   {
-   "brand": "LINDSTROM",
+   "brand": "BAHCO",
    "category_cn": "第二类·航空航天制造专用工具",
    "category_en": "Category 2 · Aerospace Manufacturing Tools",
    "product": "BAHBE-9875",
-   "description": "本品为LINDSTROM精密钳类工具，适用于电子、精密机械的夹持剪切作业场景。四川省金宏电子经销LINDSTROM产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "description": "BAHBE-9875，BAHCO品牌产品。四川省金宏电子有限公司提供原装产品供应与选型咨询服务，产品服务于航空航天、工业电子、芯片制造与智能制造领域客户，支持长期配套合作。",
    "image": "https://b2b-material.cdn.bcebos.com/sew32eShZfKE-PmSFIHFmBADxIA.jpg"
   },
   {
@@ -2400,19 +2400,19 @@
    "image": "https://b2b-material.cdn.bcebos.com/58lxCMZ6mZm6aR8qmlHqexADNk4.jpg"
   },
   {
-   "brand": "LINDSTROM",
+   "brand": "BAHCO",
    "category_cn": "第二类·航空航天制造专用工具",
    "category_en": "Category 2 · Aerospace Manufacturing Tools",
    "product": "BAHBE-8702",
-   "description": "本品为LINDSTROM精密钳类工具，适用于电子、精密机械的夹持剪切作业场景。四川省金宏电子经销LINDSTROM产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "description": "BAHBE-8702，BAHCO品牌产品。四川省金宏电子有限公司提供原装产品供应与选型咨询服务，产品服务于航空航天、工业电子、芯片制造与智能制造领域客户，支持长期配套合作。",
    "image": "https://b2b-material.cdn.bcebos.com/878Es5zk2lyM-DAwG1lcRRADxHg.jpg"
   },
   {
-   "brand": "LINDSTROM",
+   "brand": "BAHCO",
    "category_cn": "第二类·航空航天制造专用工具",
    "category_en": "Category 2 · Aerospace Manufacturing Tools",
    "product": "BAHBE-9886",
-   "description": "本品为LINDSTROM精密钳类工具，适用于电子、精密机械的夹持剪切作业场景。四川省金宏电子经销LINDSTROM产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "description": "BAHBE-9886，BAHCO品牌产品。四川省金宏电子有限公司提供原装产品供应与选型咨询服务，产品服务于航空航天、工业电子、芯片制造与智能制造领域客户，支持长期配套合作。",
    "image": "https://b2b-material.cdn.bcebos.com/fsXrmr4Bo_LEbOAR3lqBPRADngQ.jpg"
   },
   {
@@ -2622,6 +2622,358 @@
    "product": "原版 80系列刀具",
    "description": "本品为LINDSTROM精密钳类工具，适用于电子、精密机械的夹持剪切作业场景。四川省金宏电子经销LINDSTROM产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
    "image": "https://b2b-material.cdn.bcebos.com/sew32eShZfKE-PmSFIHFmBADxIA.jpg"
+  },
+  {
+   "brand": "PACE",
+   "category_cn": "第三类·焊接拆焊返修",
+   "category_en": "Category 3 · Soldering, Desoldering & Rework",
+   "product": "综合返修台",
+   "description": "本品为PACE返修台，适用于电子制造、维修维护与研发打样场景。四川省金宏电子经销PACE产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://paceworldwide.com/sites/default/files/2020-07/IR%203100%20LeftView%20New%20001WithScreen2_0.jpg"
+  },
+  {
+   "brand": "LINDSTROM",
+   "category_cn": "第二类·航空航天制造专用工具",
+   "category_en": "Category 2 · Aerospace Manufacturing Tools",
+   "product": "BAHBE-9881",
+   "description": "本品为LINDSTROM精密钳类工具，适用于电子、精密机械的夹持剪切作业场景。四川省金宏电子经销LINDSTROM产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://b2b-material.cdn.bcebos.com/sew32eShZfKE-PmSFIHFmBADxIA.jpg"
+  },
+  {
+   "brand": "LINDSTROM",
+   "category_cn": "第二类·航空航天制造专用工具",
+   "category_en": "Category 2 · Aerospace Manufacturing Tools",
+   "product": "MAL500-1D",
+   "description": "本品为LINDSTROM精密钳类工具，适用于电子、精密机械的夹持剪切作业场景。四川省金宏电子经销LINDSTROM产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://pimdata.lindstromtools.com/media/sub434/17237aacf6991a3f.png"
+  },
+  {
+   "brand": "WELLER",
+   "category_cn": "第三类·焊接拆焊返修",
+   "category_en": "Category 3 · Soldering, Desoldering & Rework",
+   "product": "安全支架 WEL 0051512599 FRNT MAIN",
+   "description": "本品为WELLER焊接辅助夹具，适用于焊接装配辅助固定场景。四川省金宏电子经销WELLER产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://www.weller-tools.com/sites/default/files/products/images/2026-05/WEL_0051512599_FRNT_MAIN.jpg"
+  },
+  {
+   "brand": "WELLER",
+   "category_cn": "第三类·焊接拆焊返修",
+   "category_en": "Category 3 · Soldering, Desoldering & Rework",
+   "product": "安全支架 WSR200 Cleaning sponge",
+   "description": "本品为WELLER焊接辅助夹具，适用于焊接装配辅助固定场景。四川省金宏电子经销WELLER产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://www.weller-tools.com/sites/default/files/styles/product_details_image_full_s/public/products/images/2026-05/T0051517499_WSR200_sponge.webp?itok=zNgtvZb2"
+  },
+  {
+   "brand": "WELLER",
+   "category_cn": "第三类·焊接拆焊返修",
+   "category_en": "Category 3 · Soldering, Desoldering & Rework",
+   "product": "安全支架 WSR201 Cleaning sponge",
+   "description": "本品为WELLER焊接辅助夹具，适用于焊接装配辅助固定场景。四川省金宏电子经销WELLER产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://www.weller-tools.com/sites/default/files/styles/product_details_image_full_l/public/products/images/2026-10/WE_T0051517599N_WSR201_IMG_Main.jpg?itok=P-X3Cdec"
+  },
+  {
+   "brand": "WELLER",
+   "category_cn": "第三类·焊接拆焊返修",
+   "category_en": "Category 3 · Soldering, Desoldering & Rework",
+   "product": "安全支架 WSR202 Cleaning sponge",
+   "description": "本品为WELLER焊接辅助夹具，适用于焊接装配辅助固定场景。四川省金宏电子经销WELLER产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://www.weller-tools.com/sites/default/files/styles/product_details_image_full_l/public/products/images/2026-09/WE_T0051517699N_WSR202_IMG_Main.jpg?itok=mRdkscZt"
+  },
+  {
+   "brand": "WELLER",
+   "category_cn": "第三类·焊接拆焊返修",
+   "category_en": "Category 3 · Soldering, Desoldering & Rework",
+   "product": "安全支架 WSR203 Cleaning sponge",
+   "description": "本品为WELLER焊接辅助夹具，适用于焊接装配辅助固定场景。四川省金宏电子经销WELLER产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://www.weller-tools.com/sites/default/files/styles/product_details_image_full_l/public/products/images/2026-09/WE_T0051517799_WSR203_IMG_Main.jpg?itok=EzFSYY5q"
+  },
+  {
+   "brand": "WELLER",
+   "category_cn": "第三类·焊接拆焊返修",
+   "category_en": "Category 3 · Soldering, Desoldering & Rework",
+   "product": "安全支架 WSR205 Cleaning sponge",
+   "description": "本品为WELLER焊接辅助夹具，适用于焊接装配辅助固定场景。四川省金宏电子经销WELLER产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://www.weller-tools.com/sites/default/files/styles/product_details_image_full_l/public/products/images/2026-09/WE_T0051517999_WSR205_IMG_Main.jpg?itok=RkcPfydd"
+  },
+  {
+   "brand": "WELLER",
+   "category_cn": "第三类·焊接拆焊返修",
+   "category_en": "Category 3 · Soldering, Desoldering & Rework",
+   "product": "安全支架 Dry Cleaning",
+   "description": "本品为WELLER焊接辅助夹具，适用于焊接装配辅助固定场景。四川省金宏电子经销WELLER产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://www.weller-tools.com/sites/default/files/products/images/2026-01/T0051517499_WSR200_dry_cleaner.jpg"
+  },
+  {
+   "brand": "WELLER",
+   "category_cn": "第三类·焊接拆焊返修",
+   "category_en": "Category 3 · Soldering, Desoldering & Rework",
+   "product": "烙铁头 LHT D 45 T0054445600",
+   "description": "本品为WELLER烙铁头，适用于电子装配、维修返修等焊接作业场景。四川省金宏电子经销WELLER产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://www.weller-tools.com/sites/default/files/styles/product_teaser_slider_l/public/products/images/2026-08/WE_T0054445699_LHTD45_main_T.jpg?h=6f8e8448&itok=2bYW57sX"
+  },
+  {
+   "brand": "WELLER",
+   "category_cn": "第三类·焊接拆焊返修",
+   "category_en": "Category 3 · Soldering, Desoldering & Rework",
+   "product": "返修系统WR 2000A T0053378699",
+   "description": "本品为WELLER返修系统，适用于电子制造、维修维护与研发打样场景。四川省金宏电子经销WELLER产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://www.weller-tools.com/sites/default/files/styles/product_details_image_full_l/public/products/images/2026-08/WE_T0053378699N_WR2000A_IMG_Main.jpg?itok=mWpYIQxY"
+  },
+  {
+   "brand": "WELLER",
+   "category_cn": "第三类·焊接拆焊返修",
+   "category_en": "Category 3 · Soldering, Desoldering & Rework",
+   "product": "返修系统WR2000ER T0053380899",
+   "description": "本品为WELLER返修系统，适用于电子制造、维修维护与研发打样场景。四川省金宏电子经销WELLER产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://www.weller-tools.com/sites/default/files/products/images/2025-11/WE_T0053380870N_WR2000ER_IMG_Main.jpg"
+  },
+  {
+   "brand": "WELLER",
+   "category_cn": "第三类·焊接拆焊返修",
+   "category_en": "Category 3 · Soldering, Desoldering & Rework",
+   "product": "返修系统WR3000M T0053368699N",
+   "description": "本品为WELLER返修系统，适用于电子制造、维修维护与研发打样场景。四川省金宏电子经销WELLER产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://www.weller-tools.com/sites/default/files/styles/product_details_image_full_l/public/products/images/2026-10/WE_T0053368699N_WR3000M_IMG_Main.jpg?itok=aQlTgq9i"
+  },
+  {
+   "brand": "WELLER",
+   "category_cn": "第三类·焊接拆焊返修",
+   "category_en": "Category 3 · Soldering, Desoldering & Rework",
+   "product": "返修系统WR 2002 T0053380699",
+   "description": "本品为WELLER返修系统，适用于电子制造、维修维护与研发打样场景。四川省金宏电子经销WELLER产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://www.weller-tools.com/sites/default/files/styles/product_details_image_full_l/public/products/images/2026-10/WE_T0053380699N_WR2002_IMG_Main.jpg?itok=nfUrkmTi"
+  },
+  {
+   "brand": "WELLER",
+   "category_cn": "第三类·焊接拆焊返修",
+   "category_en": "Category 3 · Soldering, Desoldering & Rework",
+   "product": "返修系统WR3000M T0053368399",
+   "description": "本品为WELLER返修系统，适用于电子制造、维修维护与研发打样场景。四川省金宏电子经销WELLER产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://www.weller-tools.com/sites/default/files/products/images/2026-01/WE_T0053368399N_WR3000M_IMG_Main.jpg"
+  },
+  {
+   "brand": "WELLER",
+   "category_cn": "第三类·焊接拆焊返修",
+   "category_en": "Category 3 · Soldering, Desoldering & Rework",
+   "product": "安全支架 WSR200 dry cleaner",
+   "description": "本品为WELLER焊接辅助夹具，适用于焊接装配辅助固定场景。四川省金宏电子经销WELLER产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://www.weller-tools.com/sites/default/files/products/images/2026-01/T0051517499_WSR200_dry_cleaner.jpg"
+  },
+  {
+   "brand": "WELLER",
+   "category_cn": "第三类·焊接拆焊返修",
+   "category_en": "Category 3 · Soldering, Desoldering & Rework",
+   "product": "安全支架 WSR201 dry cleaner",
+   "description": "本品为WELLER焊接辅助夹具，适用于焊接装配辅助固定场景。四川省金宏电子经销WELLER产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://www.weller-tools.com/sites/default/files/products/images/2026-01/T0051517599_WSR201_dry_cleaner.jpg"
+  },
+  {
+   "brand": "WELLER",
+   "category_cn": "第三类·焊接拆焊返修",
+   "category_en": "Category 3 · Soldering, Desoldering & Rework",
+   "product": "安全支架 WSR202 dry cleaner",
+   "description": "本品为WELLER焊接辅助夹具，适用于焊接装配辅助固定场景。四川省金宏电子经销WELLER产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://www.weller-tools.com/sites/default/files/products/images/2026-04/T0051517699_WSR202_dry_cleaner.jpg"
+  },
+  {
+   "brand": "WELLER",
+   "category_cn": "第三类·焊接拆焊返修",
+   "category_en": "Category 3 · Soldering, Desoldering & Rework",
+   "product": "安全支架 WSR203 Dry cleaner",
+   "description": "本品为WELLER焊接辅助夹具，适用于焊接装配辅助固定场景。四川省金宏电子经销WELLER产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://www.weller-tools.com/sites/default/files/styles/product_details_image_full_l/public/products/images/2026-09/WE_T0051517799_WSR203_IMG_Main.jpg?itok=EzFSYY5q"
+  },
+  {
+   "brand": "WELLER",
+   "category_cn": "第三类·焊接拆焊返修",
+   "category_en": "Category 3 · Soldering, Desoldering & Rework",
+   "product": "安全支架 WSR205 Dry cleaner",
+   "description": "本品为WELLER焊接辅助夹具，适用于焊接装配辅助固定场景。四川省金宏电子经销WELLER产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://www.weller-tools.com/sites/default/files/styles/product_details_image_full_s_2x/public/products/images/2026-05/T0051517999_WSR205_Dry_cleaner.jpg?itok=fkRNUhe3"
+  },
+  {
+   "brand": "WELLER",
+   "category_cn": "第三类·焊接拆焊返修",
+   "category_en": "Category 3 · Soldering, Desoldering & Rework",
+   "product": "烙铁头 LHT EX T0054446100",
+   "description": "本品为WELLER烙铁头，适用于电子装配、维修返修等焊接作业场景。四川省金宏电子经销WELLER产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://www.weller-tools.com/sites/default/files/styles/product_teaser_slider_l/public/products/images/2026-08/WE_T0054446199_LHTEX_main_T.jpg?h=6f8e8448&itok=gc5OYsDZ"
+  },
+  {
+   "brand": "WELLER",
+   "category_cn": "第三类·焊接拆焊返修",
+   "category_en": "Category 3 · Soldering, Desoldering & Rework",
+   "product": "烙铁头 LHT FX T0054446000",
+   "description": "本品为WELLER烙铁头，适用于电子装配、维修返修等焊接作业场景。四川省金宏电子经销WELLER产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://www.weller-tools.com/sites/default/files/styles/product_teaser_slider_l/public/products/images/2026-09/WE_T0054446099_LHTFX_main_T.jpg?h=6f8e8448&itok=RZN8GV_o"
+  },
+  {
+   "brand": "WELLER",
+   "category_cn": "第三类·焊接拆焊返修",
+   "category_en": "Category 3 · Soldering, Desoldering & Rework",
+   "product": "安全支架 WDC 2 T0051512599",
+   "description": "本品为WELLER焊接辅助夹具，适用于焊接装配辅助固定场景。四川省金宏电子经销WELLER产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://www.weller-tools.com/sites/default/files/products/images/2026-05/WEL_0051512599_FRNT_MAIN.jpg"
+  },
+  {
+   "brand": "WELLER",
+   "category_cn": "第三类·焊接拆焊返修",
+   "category_en": "Category 3 · Soldering, Desoldering & Rework",
+   "product": "烙铁头 LHT C T0054445599",
+   "description": "本品为WELLER烙铁头，适用于电子装配、维修返修等焊接作业场景。四川省金宏电子经销WELLER产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://www.weller-tools.com/sites/default/files/styles/product_teaser_slider_l/public/products/images/2026-10/WE_T0054445599_LHTC_main_T.jpg?h=6f8e8448&itok=Oqmd_c-X"
+  },
+  {
+   "brand": "WELLER",
+   "category_cn": "第三类·焊接拆焊返修",
+   "category_en": "Category 3 · Soldering, Desoldering & Rework",
+   "product": "烙铁头 LHT D T0054445299",
+   "description": "本品为WELLER烙铁头，适用于电子装配、维修返修等焊接作业场景。四川省金宏电子经销WELLER产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://www.weller-tools.com/sites/default/files/styles/product_teaser_slider_l/public/products/images/2026-08/WE_T0054445299_LHTD_main_T.jpg?h=6f8e8448&itok=e2Upt4vD"
+  },
+  {
+   "brand": "WELLER",
+   "category_cn": "第三类·焊接拆焊返修",
+   "category_en": "Category 3 · Soldering, Desoldering & Rework",
+   "product": "烙铁头 LHT E T0054445199",
+   "description": "本品为WELLER烙铁头，适用于电子装配、维修返修等焊接作业场景。四川省金宏电子经销WELLER产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://www.weller-tools.com/sites/default/files/styles/product_teaser_slider_l/public/products/images/2026-08/WE_T0054445199_LHTE_main_T.jpg?h=6f8e8448&itok=vCTYCvpk"
+  },
+  {
+   "brand": "WELLER",
+   "category_cn": "第三类·焊接拆焊返修",
+   "category_en": "Category 3 · Soldering, Desoldering & Rework",
+   "product": "烙铁头 LHT F T0054445099",
+   "description": "本品为WELLER烙铁头，适用于电子装配、维修返修等焊接作业场景。四川省金宏电子经销WELLER产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://www.weller-tools.com/sites/default/files/styles/product_teaser_slider_l/public/products/images/2026-09/WE_T0054445099_LHTF_main_T.jpg?h=6f8e8448&itok=DNJ4w6eD"
+  },
+  {
+   "brand": "WELLER",
+   "category_cn": "第三类·焊接拆焊返修",
+   "category_en": "Category 3 · Soldering, Desoldering & Rework",
+   "product": "返修系统WR 3M T0053366699",
+   "description": "本品为WELLER返修系统，适用于电子制造、维修维护与研发打样场景。四川省金宏电子经销WELLER产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://www.weller-tools.com/sites/default/files/products/images/2026-01/WR_3M_T0053366699.jpg"
+  },
+  {
+   "brand": "WELLER",
+   "category_cn": "第三类·焊接拆焊返修",
+   "category_en": "Category 3 · Soldering, Desoldering & Rework",
+   "product": "返修系统WR 2 T0053377699",
+   "description": "本品为WELLER返修系统，适用于电子制造、维修维护与研发打样场景。四川省金宏电子经销WELLER产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://www.weller-tools.com/sites/default/files/styles/product_teaser_slider_l/public/products/images/2026-08/WR_2_T0053377699.jpg?h=abf72d8c&itok=SdMycNGz"
+  },
+  {
+   "brand": "WELLER",
+   "category_cn": "第三类·焊接拆焊返修",
+   "category_en": "Category 3 · Soldering, Desoldering & Rework",
+   "product": "安全支架 WSR200 side",
+   "description": "本品为WELLER焊接辅助夹具，适用于焊接装配辅助固定场景。四川省金宏电子经销WELLER产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://www.weller-tools.com/sites/default/files/styles/product_teaser_slider_l/public/products/images/2026-10/T0051517499_WSR200_side.jpg?h=6f8e8448&itok=FOxD91g8"
+  },
+  {
+   "brand": "WELLER",
+   "category_cn": "第三类·焊接拆焊返修",
+   "category_en": "Category 3 · Soldering, Desoldering & Rework",
+   "product": "安全支架 WSR201 side",
+   "description": "本品为WELLER焊接辅助夹具，适用于焊接装配辅助固定场景。四川省金宏电子经销WELLER产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://www.weller-tools.com/sites/default/files/styles/product_details_image_full_l/public/products/images/2026-10/WE_T0051517599N_WSR201_IMG_Main.jpg?itok=P-X3Cdec"
+  },
+  {
+   "brand": "WELLER",
+   "category_cn": "第三类·焊接拆焊返修",
+   "category_en": "Category 3 · Soldering, Desoldering & Rework",
+   "product": "安全支架 WSR202 side",
+   "description": "本品为WELLER焊接辅助夹具，适用于焊接装配辅助固定场景。四川省金宏电子经销WELLER产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://www.weller-tools.com/sites/default/files/styles/product_details_image_full_l/public/products/images/2026-09/WE_T0051517699N_WSR202_IMG_Main.jpg?itok=mRdkscZt"
+  },
+  {
+   "brand": "MISUMI",
+   "category_cn": "第一类·自动化用零件、模具零件、电子部品、工具·消耗品",
+   "category_en": "Category 1 · Automation Parts, Mold Parts, Electronic Components, Tools & Consumables",
+   "product": "模架用钢球导柱组件RBSH",
+   "description": "模架用钢球导柱组件（装卸型），通过法兰部安装固定导柱，导柱、导套、衬套、弹簧尺寸种类可任意选定，钢球导向摩擦阻力小，适用于高精度模具场合，符合RoHS2.0。型式RBSH、RMSH、RKSH、QBSH、QMSH、QKSH等。四川省金宏电子有限公司是米思米认证代理商（授权适用于报备且经米思米审核通过的客户），提供原装产品供应与选型配套服务，咨询电话028-87560598。",
+   "image": "https://content.misumi.com.cn/image/upload/f_auto,t_product_main/v1/p/jp/product/series/110100159070/110100159070_001.webp"
+  },
+  {
+   "brand": "MISUMI",
+   "category_cn": "第一类·自动化用零件、模具零件、电子部品、工具·消耗品",
+   "category_en": "Category 1 · Automation Parts, Mold Parts, Electronic Components, Tools & Consumables",
+   "product": "肩型凸模SP",
+   "description": "肩型凸模为最基础型凸模，挂台厚5mm、直径3~25mm，母材可选SKD11、SKH51、粉末高速钢，杆径公差可选m5或0~+0.005，符合RoHS2.0。示例型号SPAS10-70-P6.00。四川省金宏电子有限公司是米思米认证代理商（授权适用于报备且经米思米审核通过的客户），提供原装产品供应与选型配套服务，咨询电话028-87560598。",
+   "image": "https://content.misumi.com.cn/image/upload/f_auto,t_product_main/v1/p/jp/product/series/110100092750/110100092750_001.webp"
+  },
+  {
+   "brand": "MISUMI",
+   "category_cn": "第一类·自动化用零件、模具零件、电子部品、工具·消耗品",
+   "category_en": "Category 1 · Automation Parts, Mold Parts, Electronic Components, Tools & Consumables",
+   "product": "微型直线导轨SSEBZ",
+   "description": "微型直线导轨（标准滑块型），滚珠点面接触、摩擦阻力小，可微动高精度定位，容许载重大，运行不易发热变形，适用于微高速运动场合。代表型号SSEBZ10-55。四川省金宏电子有限公司是米思米认证代理商（授权适用于报备且经米思米审核通过的客户），提供原装产品供应与选型配套服务，咨询电话028-87560598。",
+   "image": "https://content.misumi.com.cn/image/upload/f_auto,t_product_main/v1/p/cn/product/series/110300041510/110300041510_20201112120646.webp"
+  },
+  {
+   "brand": "MISUMI",
+   "category_cn": "第一类·自动化用零件、模具零件、电子部品、工具·消耗品",
+   "category_en": "Category 1 · Automation Parts, Mold Parts, Electronic Components, Tools & Consumables",
+   "product": "经济型压轧滚珠丝杠C-TBSB12",
+   "description": "经济型压轧滚珠丝杠，轴径12，导程4/5/10，精度C7；免图纸加工、节省画图时间，下订后最快6天发货，出厂前质检。型式C-TBSB12、C-TBSE12。四川省金宏电子有限公司是米思米认证代理商（授权适用于报备且经米思米审核通过的客户），提供原装产品供应与选型配套服务，咨询电话028-87560598。",
+   "image": "https://www.misumi.com.cn/pr/im/2022/04/images/110310435869_20210610144106.jpg"
+  },
+  {
+   "brand": "MISUMI",
+   "category_cn": "第一类·自动化用零件、模具零件、电子部品、工具·消耗品",
+   "category_en": "Category 1 · Automation Parts, Mold Parts, Electronic Components, Tools & Consumables",
+   "product": "内六角螺栓CB",
+   "description": "内六角螺栓（模具用标准零件），M3-M20强度12.9级（M24为10.9级），材质SCM435/SCM440、硬度38-43HRC，表面特殊发黑处理便于识别、防锈，符合RoHS2.0，支持盒装销售。型式CB全螺纹。四川省金宏电子有限公司是米思米认证代理商（授权适用于报备且经米思米审核通过的客户），提供原装产品供应与选型配套服务，咨询电话028-87560598。",
+   "image": "https://content.misumi.com.cn/image/upload/f_auto,t_product_main/v1/p/cn/product/series/110100141750/110100141750_20201112120544.webp"
+  },
+  {
+   "brand": "MISUMI",
+   "category_cn": "第一类·自动化用零件、模具零件、电子部品、工具·消耗品",
+   "category_en": "Category 1 · Automation Parts, Mold Parts, Electronic Components, Tools & Consumables",
+   "product": "矩形螺旋弹簧SWF",
+   "description": "矩形螺旋弹簧（模具弹簧SWF）：高压缩量50%、建议使用次数30万次，中压缩量45%/50万次，低压缩量40%/100万次，外径Φ6~70mm、全长10~500mm，符合RoHS2.0。四川省金宏电子有限公司是米思米认证代理商（授权适用于报备且经米思米审核通过的客户），提供原装产品供应与选型配套服务，咨询电话028-87560598。",
+   "image": "https://www.misumi.com.cn/linked/material/press/MSM1/PHOTO/110111269449_001.jpg"
+  },
+  {
+   "brand": "MISUMI",
+   "category_cn": "第一类·自动化用零件、模具零件、电子部品、工具·消耗品",
+   "category_en": "Category 1 · Automation Parts, Mold Parts, Electronic Components, Tools & Consumables",
+   "product": "定位销直杆型",
+   "description": "定位销（直杆型，模具用标准零件），用于模具与治具的精密定位，规格齐全、按图号选型。详情参数以米思米官网规格为准。四川省金宏电子有限公司是米思米认证代理商（授权适用于报备且经米思米审核通过的客户），提供原装产品供应与选型配套服务，咨询电话028-87560598。",
+   "image": "https://content.misumi.com.cn/image/upload/v1/p/cn/product/series/110100140620/110100140620_20201112120542.jpg"
+  },
+  {
+   "brand": "WELLER",
+   "category_cn": "第三类·焊接拆焊返修",
+   "category_en": "Category 3 · Soldering, Desoldering & Rework",
+   "product": "BGA返修系统",
+   "description": "BGA返修系统，WELLER品牌产品。四川省金宏电子有限公司提供原装产品供应与选型咨询服务，产品服务于航空航天、工业电子、芯片制造与智能制造领域客户，支持长期配套合作。",
+   "image": "https://img.alicdn.com/imgextra/i2/31388223/O1CN01j07BK52AcBg6K5Kkz_!!31388223.jpg"
+  },
+  {
+   "brand": "WELLER",
+   "category_cn": "第三类·焊接拆焊返修",
+   "category_en": "Category 3 · Soldering, Desoldering & Rework",
+   "product": "综合返修台 WR3000M",
+   "description": "综合返修台 WR3000M，WELLER品牌产品。四川省金宏电子有限公司提供原装产品供应与选型咨询服务，产品服务于航空航天、工业电子、芯片制造与智能制造领域客户，支持长期配套合作。",
+   "image": "https://img.alicdn.com/imgextra/i2/31388223/O1CN01QmOJKt2AcBg9s0sS8_!!31388223.jpg"
+  },
+  {
+   "brand": "WELLER",
+   "category_cn": "第三类·焊接拆焊返修",
+   "category_en": "Category 3 · Soldering, Desoldering & Rework",
+   "product": "综合返修台 WR2000ER",
+   "description": "综合返修台 WR2000ER，WELLER品牌产品。四川省金宏电子有限公司提供原装产品供应与选型咨询服务，产品服务于航空航天、工业电子、芯片制造与智能制造领域客户，支持长期配套合作。",
+   "image": "https://img.alicdn.com/imgextra/i1/31388223/O1CN01FemPNs2AcBfzbkl5r_!!31388223.jpg"
+  },
+  {
+   "brand": "METCAL",
+   "category_cn": "第三类·焊接拆焊返修",
+   "category_en": "Category 3 · Soldering, Desoldering & Rework",
+   "product": "BVX-250双工位便携式过滤装置",
+   "description": "BVX-250是METCAL双工位便携式烟雾过滤装置，HEPA效率99.97%（0.3微米），即插即用、噪音低，可与CV和GT焊接系统通信提供过滤器更换通知，专为台上或台下使用设计。四川省金宏电子为METCAL/OKI金牌代理商（2026年证书编号OKCLC0229），提供原装产品供应、选型咨询与长期配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://info.metcal.com/hs-fs/hubfs/BVX-250-FULL-KIT-LP.jpg"
   }
  ]
 }
