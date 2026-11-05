@@ -5,7 +5,7 @@
  "contact": "赵丽萍 Zhao Liping 18502892127",
  "email": "583383692@qq.com",
  "note": "产品条目来自官网英文站产品库，每条均按商品实物图逐条识别核对品牌与型号；价格以询价为准。",
- "count": 371,
+ "count": 410,
  "products": [
   {
    "brand": "WELLER",
@@ -2974,6 +2974,318 @@
    "product": "BVX-250双工位便携式过滤装置",
    "description": "BVX-250是METCAL双工位便携式烟雾过滤装置，HEPA效率99.97%（0.3微米），即插即用、噪音低，可与CV和GT焊接系统通信提供过滤器更换通知，专为台上或台下使用设计。四川省金宏电子为METCAL/OKI金牌代理商（2026年证书编号OKCLC0229），提供原装产品供应、选型咨询与长期配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
    "image": "https://info.metcal.com/hs-fs/hubfs/BVX-250-FULL-KIT-LP.jpg"
+  },
+  {
+   "brand": "METCAL",
+   "category_cn": "第三类·焊接拆焊返修",
+   "category_en": "Category 3 · Soldering, Desoldering & Rework",
+   "product": "GT120可调温焊接系统",
+   "description": "GT120是METCAL首款高性能可调温焊台，采用感应加热与闭环算法，焊接温度范围150至450°C、功率120W，支持分体与一体式烙铁头，提供3组温度预设。四川省金宏电子为METCAL/OKI金牌代理商（2026年证书编号OKCLC0229），提供原装产品供应、选型咨询与长期配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户。",
+   "image": "https://www.zjmost.com/static/images/nopic.png"
+  },
+  {
+   "brand": "METCAL",
+   "category_cn": "第三类·焊接拆焊返修",
+   "category_en": "Category 3 · Soldering, Desoldering & Rework",
+   "product": "MicroFine极细焊接工具",
+   "description": "MicroFine是METCAL为显微镜下作业设计的微焊手柄与镊夹，配合MX与CV系统使用、无需独立主机，采用600/700系列SmartHeat烙铁头，几何尺寸小至0.1mm，可处理01005级微型元件。四川省金宏电子为METCAL/OKI金牌代理商（2026年证书编号OKCLC0229），提供原装产品供应、选型咨询与长期配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户。",
+   "image": "https://www.zjmost.com/static/images/nopic.png"
+  },
+  {
+   "brand": "METCAL",
+   "category_cn": "第三类·焊接拆焊返修",
+   "category_en": "Category 3 · Soldering, Desoldering & Rework",
+   "product": "MFR-1350双输出拆焊返修系统",
+   "description": "MFR-1350是METCAL双输出吸锡返修系统，内置真空泵吸力0.7 bar，二合一吸锡手柄配大容量可重复使用集锡仓，双路可切换输出，采用SmartHeat技术并兼容现有MFR吸锡系列。四川省金宏电子为METCAL/OKI金牌代理商（2026年证书编号OKCLC0229），提供原装产品供应、选型咨询与长期配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户。",
+   "image": "https://www.zjmost.com/static/images/nopic.png"
+  },
+  {
+   "brand": "METCAL",
+   "category_cn": "第三类·焊接拆焊返修",
+   "category_en": "Category 3 · Soldering, Desoldering & Rework",
+   "product": "HCT-910热风返修工具",
+   "description": "HCT-910是METCAL大功率热风返修工具，功率最高900W，温度范围50至600°C，风量5至120 l/m，单旋钮调节温度与风量、喷嘴免工具更换，兼容HCT-900喷嘴。四川省金宏电子为METCAL/OKI金牌代理商（2026年证书编号OKCLC0229），提供原装产品供应、选型咨询与长期配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户。",
+   "image": "https://www.zjmost.com/static/upload/image/20261031/1793454563770445.jpg"
+  },
+  {
+   "brand": "METCAL",
+   "category_cn": "第三类·焊接拆焊返修",
+   "category_en": "Category 3 · Soldering, Desoldering & Rework",
+   "product": "PT4-4000/8000四区预热器",
+   "description": "PT4系列是METCAL四区预热台：PT4-4000功率2800W、预热面积240×240mm，PT4-8000功率4600W、预热面积360×400mm，温度范围50至250°C，四区可独立开关，带4路热电偶与25组可编程温度曲线。四川省金宏电子为METCAL/OKI金牌代理商（2026年证书编号OKCLC0229），提供原装产品供应、选型咨询与长期配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户。",
+   "image": "https://www.zjmost.com/static/upload/image/20261031/1793454619704976.jpg"
+  },
+  {
+   "brand": "METCAL",
+   "category_cn": "第三类·焊接拆焊返修",
+   "category_en": "Category 3 · Soldering, Desoldering & Rework",
+   "product": "BH-4000/8000电路板支架",
+   "description": "BH系列电路板支架与PT4预热台配套：BH-4000最大PCB尺寸258×258mm，BH-8000为378×418mm，板厚0.5至3mm，弹簧夹持力1.5kg并带锁定功能与ESD接地端口。四川省金宏电子为METCAL/OKI金牌代理商（2026年证书编号OKCLC0229），提供原装产品供应、选型咨询与长期配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户。",
+   "image": "https://www.zjmost.com/static/images/nopic.png"
+  },
+  {
+   "brand": "METCAL",
+   "category_cn": "第三类·焊接拆焊返修",
+   "category_en": "Category 3 · Soldering, Desoldering & Rework",
+   "product": "BVX-100台式吸烟臂压力通风系统",
+   "description": "BVX-100是METCAL台式单人烟雾净化系统，无需外部管道或空压机，HEPA效率99.97%（0.3微米），带过滤器风量85 m³/h，噪音低于55dB，可在吸烟臂与台式面式吸收之间转换。四川省金宏电子为METCAL/OKI金牌代理商（2026年证书编号OKCLC0229），提供原装产品供应、选型咨询与长期配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户。",
+   "image": "https://www.zjmost.com/static/images/nopic.png"
+  },
+  {
+   "brand": "METCAL",
+   "category_cn": "第三类·焊接拆焊返修",
+   "category_en": "Category 3 · Soldering, Desoldering & Rework",
+   "product": "MSA-25U烟雾吸收器",
+   "description": "MSA-25U是METCAL紧凑型台式烟雾吸收器，USB 5V供电，吸收能力0.8 m³/min，噪音低于41dB，配活性炭过滤器，与METCAL GT焊台连接时可随主机待机/休眠联动。四川省金宏电子为METCAL/OKI金牌代理商（2026年证书编号OKCLC0229），提供原装产品供应、选型咨询与长期配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户。",
+   "image": "https://www.zjmost.com/static/images/nopic.png"
+  },
+  {
+   "brand": "METCAL",
+   "category_cn": "第三类·焊接拆焊返修",
+   "category_en": "Category 3 · Soldering, Desoldering & Rework",
+   "product": "MSA-35L烟雾吸收器",
+   "description": "MSA-35L是METCAL双位置台式烟雾吸收器，可立式或卧式使用，立式风量效率约为卧式两倍，配活性炭过滤器、ESD安全设计，过滤器更换方便。四川省金宏电子为METCAL/OKI金牌代理商（2026年证书编号OKCLC0229），提供原装产品供应、选型咨询与长期配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户。",
+   "image": "https://www.zjmost.com/static/images/nopic.png"
+  },
+  {
+   "brand": "METCAL",
+   "category_cn": "第三类·焊接拆焊返修",
+   "category_en": "Category 3 · Soldering, Desoldering & Rework",
+   "product": "CV-IoT智能物联网焊接系统",
+   "description": "CV-IoT是METCAL智能物联焊接系统，实时记录每次焊接的时间、温度、功率、结果与所用烙铁头，仪表盘可查看工位开关状态、烙铁头寿命与焊点总数，数据可导出CSV用于评估与追溯。四川省金宏电子为METCAL/OKI金牌代理商（2026年证书编号OKCLC0229），提供原装产品供应、选型咨询与长期配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户。",
+   "image": "https://www.zjmost.com/static/images/nopic.png"
+  },
+  {
+   "brand": "MAXWELL",
+   "category_cn": "第七类·工业紧固件",
+   "category_en": "Category 7 · Industrial Fasteners",
+   "product": "超级电容 BMOD0094 P075 94F 75V",
+   "description": "本品为MAXWELL超级电容模组，适用于储能、电源支撑与设备启动场景。四川省金宏电子经销MAXWELL产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://www.zjmost.com/static/upload/image/20221104/1667535305554427.jpg"
+  },
+  {
+   "brand": "MAXWELL",
+   "category_cn": "第七类·工业紧固件",
+   "category_en": "Category 7 · Industrial Fasteners",
+   "product": "超级电容 BMOD0130 P056 B03 (56V 130F)",
+   "description": "本品为MAXWELL超级电容模组，适用于储能、电源支撑与设备启动场景。四川省金宏电子经销MAXWELL产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://www.zjmost.com/static/upload/image/20221104/1667535524889972.jpg"
+  },
+  {
+   "brand": "MAXWELL",
+   "category_cn": "第七类·工业紧固件",
+   "category_en": "Category 7 · Industrial Fasteners",
+   "product": "超级电容 BMOD0500 P016 B01 16V 500F",
+   "description": "本品为MAXWELL超级电容模组，适用于储能、电源支撑与设备启动场景。四川省金宏电子经销MAXWELL产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://maxwell.com/wp-content/uploads/2021/08/16_v_module_s.webp"
+  },
+  {
+   "brand": "MAXWELL",
+   "category_cn": "第七类·工业紧固件",
+   "category_en": "Category 7 · Industrial Fasteners",
+   "product": "超级电容模组 BMOD0058 E016",
+   "description": "本品为MAXWELL超级电容模组，适用于储能、电源支撑与设备启动场景。四川省金宏电子经销MAXWELL产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://www.zjmost.com/static/upload/image/20221104/1667536225582555.jpg"
+  },
+  {
+   "brand": "MAXWELL",
+   "category_cn": "第七类·工业紧固件",
+   "category_en": "Category 7 · Industrial Fasteners",
+   "product": "超级电容 ESM 重型卡车发动机启动模块",
+   "description": "本品为MAXWELL发动机启动模块，适用于重型卡车发动机启动与电源支撑场景。四川省金宏电子经销MAXWELL产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://www.zjmost.com/static/upload/image/20221104/1667537313214908.jpg"
+  },
+  {
+   "brand": "MAXWELL",
+   "category_cn": "第七类·工业紧固件",
+   "category_en": "Category 7 · Industrial Fasteners",
+   "product": "超级电容-家用小轿车超级电瓶",
+   "description": "本品为MAXWELL超级电容电瓶，适用于家用小轿车启动电源场景。四川省金宏电子经销MAXWELL产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://www.zjmost.com/static/upload/image/20221015/1665817925390969.jpg"
+  },
+  {
+   "brand": "MAXWELL",
+   "category_cn": "第七类·工业紧固件",
+   "category_en": "Category 7 · Industrial Fasteners",
+   "product": "超级电容-摩托车超级电瓶",
+   "description": "本品为MAXWELL超级电容电瓶，适用于摩托车启动电源场景。四川省金宏电子经销MAXWELL产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://www.zjmost.com/static/upload/image/20221015/1665818701217582.jpg"
+  },
+  {
+   "brand": "MAXWELL",
+   "category_cn": "第七类·工业紧固件",
+   "category_en": "Category 7 · Industrial Fasteners",
+   "product": "超级电容-特种车/大货车超级电瓶",
+   "description": "本品为MAXWELL超级电容电瓶，适用于特种车与大货车启动电源场景。四川省金宏电子经销MAXWELL产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://www.zjmost.com/static/upload/image/20221015/1665818850659396.jpg"
+  },
+  {
+   "brand": "MAXWELL",
+   "category_cn": "第七类·工业紧固件",
+   "category_en": "Category 7 · Industrial Fasteners",
+   "product": "超级电容-汽车超级电瓶",
+   "description": "本品为MAXWELL超级电容电瓶，适用于汽车启动电源场景。四川省金宏电子经销MAXWELL产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://www.zjmost.com/static/upload/image/20221015/1665819086124578.jpg"
+  },
+  {
+   "brand": "MAXWELL",
+   "category_cn": "第七类·工业紧固件",
+   "category_en": "Category 7 · Industrial Fasteners",
+   "product": "超级电容 BMOD0058 E016 B02（16V，58F）",
+   "description": "本品为MAXWELL超级电容模组，适用于储能、电源支撑与设备启动场景。四川省金宏电子经销MAXWELL产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://maxwell.com/wp-content/uploads/2021/08/16_v_module_s.jpg"
+  },
+  {
+   "brand": "METCAL/OKI",
+   "category_cn": "第三类·焊接拆焊返修",
+   "category_en": "Category 3 · Soldering, Desoldering & Rework",
+   "product": "PS-900 焊接系统",
+   "description": "本品为METCAL/OKI焊接系统，适用于电子装配、实验室研发与维修维护场景。四川省金宏电子经销METCAL/OKI产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://www.zjmost.com/static/upload/image/20221103/1667474721783732.jpg"
+  },
+  {
+   "brand": "METCAL/OKI",
+   "category_cn": "第三类·焊接拆焊返修",
+   "category_en": "Category 3 · Soldering, Desoldering & Rework",
+   "product": "全智能可验证焊台 CV-5200和CV-500系列",
+   "description": "本品为METCAL/OKI可验证智能焊台，适用于电子制造、焊接拆焊与返修场景。四川省金宏电子经销METCAL/OKI产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://www.zjmost.com/static/upload/image/20221104/1667538859155885.jpg"
+  },
+  {
+   "brand": "METCAL/OKI",
+   "category_cn": "第三类·焊接拆焊返修",
+   "category_en": "Category 3 · Soldering, Desoldering & Rework",
+   "product": "全智能 HCT-1000 可编程手持式热风枪",
+   "description": "本品为METCAL/OKI可编程热风工具，适用于电子返修、拆焊与实验室研发场景。四川省金宏电子经销METCAL/OKI产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://www.zjmost.com/static/upload/image/20221107/1667811546305194.jpg"
+  },
+  {
+   "brand": "METCAL/OKI",
+   "category_cn": "第三类·焊接拆焊返修",
+   "category_en": "Category 3 · Soldering, Desoldering & Rework",
+   "product": "烙铁头 SxV/CxV/PHT/SxP/RxP/TxP/DxP 系列",
+   "description": "本品为METCAL/OKI烙铁头，适用于焊接工位配套与耗材更换场景。四川省金宏电子经销METCAL/OKI产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://www.zjmost.com/static/upload/image/20221107/1667812024321825.jpg"
+  },
+  {
+   "brand": "METCAL/OKI",
+   "category_cn": "第三类·焊接拆焊返修",
+   "category_en": "Category 3 · Soldering, Desoldering & Rework",
+   "product": "MFR-1140 全智能焊台",
+   "description": "本品为METCAL/OKI全智能焊台，适用于电子装配、实验室研发与维修维护场景。四川省金宏电子经销METCAL/OKI产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://www.zjmost.com/static/upload/image/20221107/1667812260632202.jpg"
+  },
+  {
+   "brand": "METCAL/OKI",
+   "category_cn": "第三类·焊接拆焊返修",
+   "category_en": "Category 3 · Soldering, Desoldering & Rework",
+   "product": "全智能 PS-900 电焊台（PS-CA3发热芯/PS-HC3手柄/WS2烙铁架）",
+   "description": "本品为METCAL/OKI电焊台，适用于电子装配、实验室研发与维修维护场景。四川省金宏电子经销METCAL/OKI产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://www.zjmost.com/static/upload/image/20221107/1667812821658063.jpg"
+  },
+  {
+   "brand": "METCAL/OKI",
+   "category_cn": "第三类·焊接拆焊返修",
+   "category_en": "Category 3 · Soldering, Desoldering & Rework",
+   "product": "CV-5210 可验证全智能焊接系统",
+   "description": "本品为METCAL/OKI可验证焊接系统，适用于电子制造、焊接拆焊与返修场景。四川省金宏电子经销METCAL/OKI产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://www.zjmost.com/static/upload/image/20221107/1667813425920597.jpg"
+  },
+  {
+   "brand": "METCAL",
+   "category_cn": "第三类·焊接拆焊返修",
+   "category_en": "Category 3 · Soldering, Desoldering & Rework",
+   "product": "VFX-1000 大容量烟雾净化系统",
+   "description": "本品为METCAL烟雾净化系统，适用于焊接工位烟雾净化与车间环境治理场景。四川省金宏电子经销METCAL产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://www.zjmost.com/static/upload/image/20221107/1667815210530073.jpg"
+  },
+  {
+   "brand": "三幸科技",
+   "category_cn": "第八类·工业设备仪器仪表",
+   "category_en": "Category 8 · Industrial Equipment & Instruments",
+   "product": "4G-DTU 工业级无线数据传输终端",
+   "description": "本品为三幸科技无线数据传输终端，适用于工业物联网数据采集与远程传输场景。四川省金宏电子经销三幸科技产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://www.zjmost.com/static/upload/image/20221105/1667639302372168.jpg"
+  },
+  {
+   "brand": "NORD-LOCK",
+   "category_cn": "第七类·工业紧固件",
+   "category_en": "Category 7 · Industrial Fasteners",
+   "product": "防松垫片 NL12SS/NL10SS/NL6SS/NL5SS/NL4SS/NL3SS 系列",
+   "description": "本品为NORD-LOCK防松垫片，适用于螺栓连接防松与紧固场景。四川省金宏电子经销NORD-LOCK产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://www.zjmost.com/static/upload/image/20221104/1667536623760356.jpg"
+  },
+  {
+   "brand": "ERASER",
+   "category_cn": "第一类·自动化用零件、模具零件、电子部品、工具·消耗品",
+   "category_en": "Category 1 · Automation Parts, Mold Parts, Electronic Components, Tools & Consumables",
+   "product": "640RT 锥形磨轮",
+   "description": "本品为ERASER锥形磨轮，适用于线缆与精密零件打磨加工场景。四川省金宏电子经销ERASER产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://www.zjmost.com/static/upload/image/20221107/1667808651125789.jpg"
+  },
+  {
+   "brand": "三丰 Mitutoyo",
+   "category_cn": "第八类·工业设备仪器仪表",
+   "category_en": "Category 8 · Industrial Equipment & Instruments",
+   "product": "三点内径千分尺 468系列",
+   "description": "本品为三丰 Mitutoyo内径千分尺，适用于精密内径测量与质量检测场景。四川省金宏电子经销三丰 Mitutoyo产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://www.zjmost.com/static/upload/image/20221103/1667472105709494.png"
+  },
+  {
+   "brand": "三丰 Mitutoyo",
+   "category_cn": "第八类·工业设备仪器仪表",
+   "category_en": "Category 8 · Industrial Equipment & Instruments",
+   "product": "防冷却液千分尺 外径千分尺 棘轮套管千分尺 全系列",
+   "description": "本品为三丰 Mitutoyo千分尺，适用于精密尺寸测量与质量检测场景。四川省金宏电子经销三丰 Mitutoyo产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://www.zjmost.com/static/upload/image/20221103/1667472434598368.jpg"
+  },
+  {
+   "brand": "三丰 Mitutoyo",
+   "category_cn": "第八类·工业设备仪器仪表",
+   "category_en": "Category 8 · Industrial Equipment & Instruments",
+   "product": "数显卡尺 游标卡尺 带表卡尺 全系列",
+   "description": "本品为三丰 Mitutoyo卡尺，适用于精密尺寸测量与质量检测场景。四川省金宏电子经销三丰 Mitutoyo产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://www.zjmost.com/static/upload/image/20221103/1667472564537033.png"
+  },
+  {
+   "brand": "金宏制造",
+   "category_cn": "第四类·关键电气系统",
+   "category_en": "Category 4 · Critical Electrical Systems",
+   "product": "泄流防击穿保护器（铁路专用）",
+   "description": "本品为金宏制造泄流防击穿保护器，适用于铁路电气系统泄流与防击穿保护场景。四川省金宏电子经销金宏制造产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://www.zjmost.com/static/upload/image/20221030/1667117980720091.png"
+  },
+  {
+   "brand": "进口仪器仪表",
+   "category_cn": "第八类·工业设备仪器仪表",
+   "category_en": "Category 8 · Industrial Equipment & Instruments",
+   "product": "SL-030B 重锤式表面电阻测试仪",
+   "description": "本品为进口仪器仪表表面电阻测试仪，适用于防静电地板与工作区表面阻抗测试场景。四川省金宏电子经销进口仪器仪表产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://www.zjmost.com/static/upload/image/20221103/1667470481800804.png"
+  },
+  {
+   "brand": "ACL Staticide",
+   "category_cn": "第八类·工业设备仪器仪表",
+   "category_en": "Category 8 · Industrial Equipment & Instruments",
+   "product": "ACL-380 表面电阻测试仪",
+   "description": "本品为ACL Staticide表面电阻测试仪，适用于静电防护区表面电阻测试场景。四川省金宏电子经销ACL Staticide产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://www.zjmost.com/static/upload/image/20221103/1667470565103855.png"
+  },
+  {
+   "brand": "Lee Spring",
+   "category_cn": "第七类·工业紧固件",
+   "category_en": "Category 7 · Industrial Fasteners",
+   "product": "CB00/CBM/CI 006/MS 系列弹簧",
+   "description": "本品为Lee Spring弹簧，适用于精密机构弹性元件配套场景。四川省金宏电子经销Lee Spring产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://www.zjmost.com/static/upload/image/20221107/1667808987549613.jpg"
+  },
+  {
+   "brand": "3M",
+   "category_cn": "第一类·自动化用零件、模具零件、电子部品、工具·消耗品",
+   "category_en": "Category 1 · Automation Parts, Mold Parts, Electronic Components, Tools & Consumables",
+   "product": "聚酰亚胺薄膜胶带 3M 5413",
+   "description": "本品为3M聚酰亚胺胶带，适用于电子制造高温遮蔽与绝缘保护场景。四川省金宏电子经销3M产品，提供原装产品供应与应用配套服务。产品面向航空航天、工业电子、芯片制造、智能制造等领域客户，支持选型咨询与长期配套合作。",
+   "image": "https://www.zjmost.com/static/upload/image/20221129/1669715398231741.jpg"
   }
  ]
 }
